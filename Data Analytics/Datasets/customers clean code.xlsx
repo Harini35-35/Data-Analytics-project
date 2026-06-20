@@ -1,0 +1,21 @@
+import pandas as pd
+import numpy as np
+df = pd.read_excel(r"C:\Users\harin\OneDrive\Desktop\Data Analytics\customers.xlsx")
+
+
+##Ex- ram kumar --> str.strip() ---> ramkumar -->str.title --> Ramkumar
+
+df["Full_Name"] = df["Full_Name"].str.strip().str.title()
+df["Segment"] = df["Segment"].str.strip().str.title()
+df["Gender"] = df["Gender"].str.strip().str.title()
+df.loc[~df["Email"].str.contains("@", na=False), "Email"] = np.nan
+df["Phone"] = df["Phone"].fillna ("Not Provider")
+df["Age"] = df["Age"].fillna(df["Age"].median()).astype(int)
+df = df.dropna(subset=["Customer_ID", "Join_Date"])
+df["Join_Date"] = pd.to_datetime(df["Join_Date"])
+df["Tenure_Days"] = (pd. Timestamp("today") - df["Join_Date"]).dt.days
+df = df.drop_duplicates (subset=["Customer_ID"]).reset_index(drop=True)
+df.to_csv("Cleaned Customer Data.csv", index=False)
+print("File Saved completed")
+
+

@@ -1,0 +1,1116 @@
+Order_ID,Order_Date,Customer_ID,Product_Name,Category,Quantity,Unit_Price,Total_Sales,Region,Order_Status,Sales_Channel,Order_Month,Order_Year,Order_Quarter
+ORD-1000,2025-03-18,CUST-427,Crime Max,Sports,39,1845.77,71985.03,East,Returned,Mobile App,3,2025,2025Q1
+ORD-1001,2025-07-31,CUST-157,Travel Basic,Electronics,29,1417.4,41104.6,North,Pending,Online,7,2025,2025Q3
+ORD-1002,2026-03-13,CUST-112,Win Plus,Food & Beverage,15,313.55,4703.25,West,Delivered,Phone,3,2026,2026Q1
+ORD-1003,2025-12-04,CUST-479,Tough Plus,Food & Beverage,43,1156.81,49742.83,Central,Pending,In-Store,12,2025,2025Q4
+ORD-1004,2024-09-09,CUST-240,Ago Pro,Sports,8,1217.36,9738.88,East,Cancelled,Online,9,2024,2024Q3
+ORD-1006,2026-02-06,CUST-214,Civil Max,Electronics,39,1475.52,57545.28,Central,Delivered,Phone,2,2026,2026Q1
+ORD-1007,2024-06-22,CUST-171,Than Basic,Food & Beverage,19,1869.39,35518.41,West,Shipped,In-Store,6,2024,2024Q2
+ORD-1008,2024-12-15,CUST-477,Might Lite,Sports,23,1037.7849999999999,23869.05,East,Pending,Phone,12,2024,2024Q4
+ORD-1009,2026-01-30,CUST-152,Again Max,Clothing,11,907.17,9978.87,Central,Returned,Online,1,2026,2026Q1
+ORD-1010,2025-08-29,CUST-446,Dream Plus,Furniture,11,235.34,2588.74,Central,Delivered,Mobile App,8,2025,2025Q3
+ORD-1011,2025-03-16,CUST-479,Probably Plus,Clothing,24,1969.83,47275.92,South,Returned,Online,3,2025,2025Q1
+ORD-1012,2025-01-01,CUST-379,Free Pro,Furniture,36,1679.41,60458.76,North,Pending,Phone,1,2025,2025Q1
+ORD-1013,2024-11-07,CUST-144,Interest Pro,Electronics,40,258.08,10323.2,Central,Cancelled,Online,11,2024,2024Q4
+ORD-1014,2026-05-24,CUST-402,More Basic,Sports,24,1842.48,44219.52,West,Returned,Online,5,2026,2026Q2
+ORD-1015,2025-11-25,CUST-316,Sign Lite,Electronics,3,1741.09,5223.27,South,Returned,Mobile App,11,2025,2025Q4
+ORD-1016,2024-11-02,CUST-116,Compare Lite,Clothing,22,1042.49,22934.78,Central,Pending,Mobile App,11,2024,2024Q4
+ORD-1017,2024-12-20,CUST-115,Particularly Max,Sports,2,1186.64,2373.28,Central,Delivered,Phone,12,2024,2024Q4
+ORD-1018,2024-06-20,CUST-147,Citizen Basic,Electronics,24,804.02,19296.48,West,Pending,Phone,6,2024,2024Q2
+ORD-1019,2025-01-19,CUST-211,Offer Pro,Electronics,44,118.98,5235.12,South,Returned,Online,1,2025,2025Q1
+ORD-1020,2026-05-30,CUST-219,Before Basic,Electronics,30,677.04,20311.2,South,Shipped,In-Store,5,2026,2026Q2
+ORD-1021,2025-04-13,CUST-358,Young Plus,Clothing,38,1607.68,61091.84,North,Shipped,Online,4,2025,2025Q2
+ORD-1022,2025-02-10,CUST-408,Operation Pro,Electronics,2,19.22,38.44,Central,Returned,Phone,2,2025,2025Q1
+ORD-1023,2026-05-30,CUST-113,Game Lite,Food & Beverage,21,673.66,14146.86,North,Delivered,Online,5,2026,2026Q2
+ORD-1024,2024-11-10,CUST-387,Allow Pro,Furniture,33,802.36,26477.88,South,Pending,Mobile App,11,2024,2024Q4
+ORD-1025,2025-06-29,CUST-201,Bar Plus,Food & Beverage,12,1079.42,12953.04,North,Shipped,Online,6,2025,2025Q2
+ORD-1026,2025-09-17,CUST-466,Much Pro,Clothing,22,1840.51,40491.22,West,Cancelled,Mobile App,9,2025,2025Q3
+ORD-1027,2026-01-24,CUST-432,Recent Lite,Clothing,44,699.23,30766.12,East,Returned,In-Store,1,2026,2026Q1
+ORD-1028,2025-08-27,CUST-459,Sea Plus,Electronics,25,700.44,17511.0,West,Returned,Mobile App,8,2025,2025Q3
+ORD-1029,2025-04-22,CUST-379,Prepare Max,Sports,49,1477.63,72403.87,South,Cancelled,In-Store,4,2025,2025Q2
+ORD-1030,2024-06-25,CUST-314,Both Basic,Food & Beverage,27,909.91,24567.57,West,Delivered,In-Store,6,2024,2024Q2
+ORD-1031,2026-02-04,CUST-212,Page Max,Clothing,42,456.96,19192.32,South,Pending,Online,2,2026,2026Q1
+ORD-1032,2024-10-09,CUST-329,Reveal Plus,Furniture,28,910.35,25489.8,West,Shipped,Phone,10,2024,2024Q4
+ORD-1033,2025-12-16,CUST-401,Idea Plus,Clothing,16,290.31,4644.96,Central,Shipped,Phone,12,2025,2025Q4
+ORD-1034,2025-01-08,CUST-242,Military Plus,Food & Beverage,15,361.01,5415.15,Central,Pending,Online,1,2025,2025Q1
+ORD-1035,2025-08-12,CUST-103,Exactly Lite,Furniture,47,1001.75,47082.25,West,Pending,In-Store,8,2025,2025Q3
+ORD-1036,2024-10-31,CUST-488,Indeed Plus,Furniture,44,843.66,37121.04,North,Pending,Phone,10,2024,2024Q4
+ORD-1037,2025-03-25,CUST-181,Sell Basic,Electronics,3,1830.54,5491.62,South,Pending,Mobile App,3,2025,2025Q1
+ORD-1038,2026-04-05,CUST-457,Week Lite,Sports,37,731.16,27052.92,Central,Shipped,Phone,4,2026,2026Q2
+ORD-1039,2025-12-13,CUST-316,Ask Plus,Furniture,7,1165.37,8157.59,South,Returned,In-Store,12,2025,2025Q4
+ORD-1040,2025-10-04,CUST-274,Practice Lite,Electronics,21,1268.21,26632.41,Central,Returned,In-Store,10,2025,2025Q4
+ORD-1041,2025-04-22,CUST-242,Available Basic,Sports,9,36.06,324.54,East,Cancelled,Mobile App,4,2025,2025Q2
+ORD-1042,2026-01-11,CUST-179,Same Basic,Electronics,39,1330.44,51887.16,West,Returned,Online,1,2026,2026Q1
+ORD-1044,2026-05-22,CUST-490,Nation Pro,Clothing,4,1922.53,7690.12,West,Delivered,Online,5,2026,2026Q2
+ORD-1046,2025-10-10,CUST-152,Rather Plus,Electronics,14,835.1,11691.4,South,Shipped,Mobile App,10,2025,2025Q4
+ORD-1047,2025-02-26,CUST-147,Base Max,Food & Beverage,9,179.85,1618.65,West,Shipped,Online,2,2025,2025Q1
+ORD-1048,2025-05-18,CUST-294,Adult Basic,Electronics,26,1993.78,51838.28,Central,Returned,Phone,5,2025,2025Q2
+ORD-1049,2025-04-27,CUST-149,Back Max,Food & Beverage,2,1009.37,2018.74,East,Returned,Phone,4,2025,2025Q2
+ORD-1050,2025-07-28,CUST-283,Leader Pro,Furniture,20,1037.7849999999999,20755.7,Central,Shipped,In-Store,7,2025,2025Q3
+ORD-1051,2025-12-23,CUST-276,Speak Max,Furniture,28,1037.7849999999999,29057.98,East,Delivered,In-Store,12,2025,2025Q4
+ORD-1052,2025-08-16,CUST-409,Note Max,Furniture,47,1502.42,70613.74,East,Pending,Phone,8,2025,2025Q3
+ORD-1053,2025-03-13,CUST-235,Different Basic,Electronics,7,427.71,2993.97,Central,Cancelled,In-Store,3,2025,2025Q1
+ORD-1055,2025-07-25,CUST-473,Learn Plus,Food & Beverage,8,418.23,3345.84,South,Cancelled,Phone,7,2025,2025Q3
+ORD-1056,2026-06-02,CUST-335,Help Lite,Electronics,47,389.47,18305.09,South,Pending,In-Store,6,2026,2026Q2
+ORD-1057,2025-06-02,CUST-374,Watch Plus,Furniture,35,82.73,2895.55,East,Returned,In-Store,6,2025,2025Q2
+ORD-1059,2025-02-26,CUST-293,Day Plus,Furniture,17,1134.03,19278.51,East,Delivered,Online,2,2025,2025Q1
+ORD-1060,2026-03-20,CUST-140,Why Max,Sports,36,140.76,5067.36,South,Returned,Mobile App,3,2026,2026Q1
+ORD-1061,2024-08-12,CUST-382,Fire Max,Furniture,40,1553.3,62132.0,East,Pending,Phone,8,2024,2024Q3
+ORD-1062,2025-12-14,CUST-250,Democratic Basic,Sports,4,912.04,3648.16,East,Returned,Mobile App,12,2025,2025Q4
+ORD-1063,2024-12-20,CUST-421,Detail Basic,Clothing,2,1053.54,2107.08,South,Returned,Online,12,2024,2024Q4
+ORD-1064,2025-02-02,CUST-416,Range Plus,Food & Beverage,6,887.12,5322.72,West,Cancelled,Online,2,2025,2025Q1
+ORD-1065,2024-12-07,CUST-285,Same Plus,Furniture,42,807.52,33915.84,East,Cancelled,Phone,12,2024,2024Q4
+ORD-1066,2026-01-13,CUST-395,Assume Max,Sports,4,1123.68,4494.72,West,Delivered,Phone,1,2026,2026Q1
+ORD-1067,2025-06-29,CUST-198,Compare Lite,Food & Beverage,29,318.93,9248.97,East,Pending,Mobile App,6,2025,2025Q2
+ORD-1068,2025-01-22,CUST-460,Century Lite,Clothing,18,372.04,6696.72,Central,Shipped,Mobile App,1,2025,2025Q1
+ORD-1069,2025-04-22,CUST-135,Agency Basic,Sports,26,1724.95,44848.7,East,Pending,In-Store,4,2025,2025Q2
+ORD-1070,2025-06-10,CUST-123,Beyond Plus,Clothing,44,1892.77,83281.88,East,Returned,Mobile App,6,2025,2025Q2
+ORD-1072,2026-05-02,CUST-216,Order Plus,Electronics,10,548.78,5487.8,Central,Delivered,Online,5,2026,2026Q2
+ORD-1073,2024-09-22,CUST-495,Indeed Pro,Food & Beverage,36,1291.56,46496.16,Central,Shipped,Mobile App,9,2024,2024Q3
+ORD-1074,2025-12-11,CUST-248,Ball Max,Electronics,14,823.38,11527.32,West,Returned,In-Store,12,2025,2025Q4
+ORD-1075,2026-05-22,CUST-140,Color Plus,Clothing,31,60.52,1876.12,West,Returned,Mobile App,5,2026,2026Q2
+ORD-1076,2024-11-16,CUST-219,Play Plus,Sports,48,320.74,15395.52,East,Delivered,Phone,11,2024,2024Q4
+ORD-1077,2025-05-21,CUST-151,Sense Plus,Furniture,15,1434.78,21521.7,South,Delivered,In-Store,5,2025,2025Q2
+ORD-1078,2025-11-26,CUST-294,Both Lite,Electronics,8,1321.26,10570.08,East,Shipped,Phone,11,2025,2025Q4
+ORD-1079,2024-07-11,CUST-242,Factor Plus,Furniture,14,63.92,894.88,North,Shipped,Online,7,2024,2024Q3
+ORD-1080,2024-09-28,CUST-332,Provide Pro,Electronics,23,451.72,10389.56,East,Cancelled,In-Store,9,2024,2024Q3
+ORD-1081,2025-05-16,CUST-425,Here Lite,Food & Beverage,40,469.84,18793.6,North,Delivered,In-Store,5,2025,2025Q2
+ORD-1082,2025-01-07,CUST-286,Woman Basic,Furniture,21,1037.7849999999999,21793.48,East,Shipped,Mobile App,1,2025,2025Q1
+ORD-1083,2025-01-21,CUST-183,Move Basic,Electronics,16,49.22,787.52,West,Returned,In-Store,1,2025,2025Q1
+ORD-1085,2025-02-12,CUST-281,Rate Pro,Sports,18,1601.83,28832.94,West,Delivered,Online,2,2025,2025Q1
+ORD-1086,2025-05-10,CUST-207,Company Plus,Clothing,47,365.3,17169.1,Unknown,Shipped,Online,5,2025,2025Q2
+ORD-1087,2026-02-03,CUST-443,Democrat Pro,Food & Beverage,24,1308.96,31415.04,South,Delivered,In-Store,2,2026,2026Q1
+ORD-1088,2025-11-11,CUST-236,Professional Basic,Food & Beverage,26,483.98,12583.48,Central,Cancelled,In-Store,11,2025,2025Q4
+ORD-1089,2024-11-27,CUST-459,Pull Plus,Electronics,25,207.89,5197.25,East,Pending,Mobile App,11,2024,2024Q4
+ORD-1090,2024-10-14,CUST-449,Town Pro,Clothing,45,493.91,22225.95,Central,Delivered,Online,10,2024,2024Q4
+ORD-1091,2026-01-25,CUST-431,Care Lite,Furniture,41,1447.31,59339.71,East,Delivered,Mobile App,1,2026,2026Q1
+ORD-1092,2026-01-07,CUST-136,Together Plus,Electronics,29,1712.84,49672.36,South,Delivered,Online,1,2026,2026Q1
+ORD-1093,2024-06-04,CUST-411,Along Lite,Electronics,15,1662.14,24932.1,North,Delivered,Mobile App,6,2024,2024Q2
+ORD-1094,2026-02-16,CUST-425,Offer Pro,Clothing,45,800.4,36018.0,Central,Shipped,Phone,2,2026,2026Q1
+ORD-1095,2025-09-29,CUST-187,Cold Plus,Sports,1,1339.49,1339.49,Central,Pending,Phone,9,2025,2025Q3
+ORD-1097,2025-04-16,CUST-473,Hear Max,Furniture,7,593.36,4153.52,South,Delivered,Mobile App,4,2025,2025Q2
+ORD-1098,2024-08-03,CUST-225,Fish Basic,Food & Beverage,9,1793.71,16143.39,North,Returned,In-Store,8,2024,2024Q3
+ORD-1099,2025-05-15,CUST-183,Idea Plus,Electronics,24,35.87,860.88,Central,Shipped,In-Store,5,2025,2025Q2
+ORD-1100,2026-04-17,CUST-336,Late Pro,Sports,1,180.16,180.16,South,Pending,In-Store,4,2026,2026Q2
+ORD-1101,2025-09-20,CUST-294,Degree Max,Electronics,44,423.69,18642.36,South,Cancelled,Mobile App,9,2025,2025Q3
+ORD-1102,2024-12-29,CUST-238,Ability Basic,Sports,8,62.8,502.4,North,Cancelled,Phone,12,2024,2024Q4
+ORD-1103,2026-05-10,CUST-427,Serve Plus,Clothing,24,371.06,8905.44,North,Cancelled,In-Store,5,2026,2026Q2
+ORD-1104,2025-04-11,CUST-452,From Max,Food & Beverage,11,1170.25,12872.75,West,Cancelled,Online,4,2025,2025Q2
+ORD-1105,2025-03-03,CUST-385,Party Plus,Electronics,17,848.63,14426.71,East,Cancelled,Phone,3,2025,2025Q1
+ORD-1106,2024-09-27,CUST-212,Pretty Basic,Sports,8,1786.42,14291.36,West,Pending,Online,9,2024,2024Q3
+ORD-1107,2025-09-15,CUST-450,Among Pro,Sports,35,1636.71,57284.85,North,Delivered,Mobile App,9,2025,2025Q3
+ORD-1108,2025-04-12,CUST-266,Serious Basic,Electronics,35,690.22,24157.7,South,Cancelled,In-Store,4,2025,2025Q2
+ORD-1109,2025-01-29,CUST-493,True Pro,Food & Beverage,33,526.25,17366.25,North,Delivered,Online,1,2025,2025Q1
+ORD-1110,2026-02-04,CUST-497,Clearly Lite,Clothing,5,765.59,3827.95,Central,Returned,Mobile App,2,2026,2026Q1
+ORD-1111,2024-10-09,CUST-128,Affect Max,Clothing,42,1184.69,49756.98,South,Delivered,In-Store,10,2024,2024Q4
+ORD-1112,2025-04-23,CUST-217,Stop Lite,Furniture,39,1037.7849999999999,40473.61,West,Returned,Mobile App,4,2025,2025Q2
+ORD-1113,2025-11-26,CUST-116,During Pro,Furniture,41,1252.06,51334.46,West,Delivered,Online,11,2025,2025Q4
+ORD-1114,2025-11-14,CUST-261,Attention Plus,Furniture,28,824.73,23092.44,West,Delivered,Phone,11,2025,2025Q4
+ORD-1115,2026-05-24,CUST-305,Alone Pro,Food & Beverage,7,1108.57,7759.99,South,Delivered,Online,5,2026,2026Q2
+ORD-1116,2026-02-06,CUST-237,Common Pro,Furniture,9,877.89,7901.01,East,Delivered,Online,2,2026,2026Q1
+ORD-1117,2025-07-02,CUST-133,Agree Plus,Furniture,8,595.99,4767.92,East,Pending,Phone,7,2025,2025Q3
+ORD-1118,2026-02-02,CUST-208,Seat Lite,Food & Beverage,12,1897.42,22769.04,East,Returned,Mobile App,2,2026,2026Q1
+ORD-1119,2025-05-02,CUST-390,Part Max,Furniture,34,1529.58,52005.72,North,Delivered,Mobile App,5,2025,2025Q2
+ORD-1120,2025-07-17,CUST-467,Official Pro,Clothing,33,288.83,9531.39,North,Pending,Online,7,2025,2025Q3
+ORD-1121,2024-11-19,CUST-261,Think Pro,Electronics,48,1738.25,83436.0,Central,Pending,Online,11,2024,2024Q4
+ORD-1122,2024-11-11,CUST-208,Air Max,Clothing,23,979.99,22539.77,South,Returned,Mobile App,11,2024,2024Q4
+ORD-1123,2025-03-31,CUST-435,Join Pro,Clothing,24,1790.16,42963.84,Central,Delivered,Phone,3,2025,2025Q1
+ORD-1124,2026-02-03,CUST-355,Spend Max,Sports,37,1601.71,59263.27,North,Pending,In-Store,2,2026,2026Q1
+ORD-1125,2025-03-05,CUST-302,Require Max,Electronics,35,856.17,29965.95,South,Cancelled,Phone,3,2025,2025Q1
+ORD-1126,2025-01-30,CUST-429,Knowledge Max,Clothing,44,54.71,2407.24,West,Cancelled,Online,1,2025,2025Q1
+ORD-1127,2025-12-29,CUST-334,Build Plus,Electronics,40,544.67,21786.8,South,Cancelled,Mobile App,12,2025,2025Q4
+ORD-1129,2025-11-22,CUST-235,Its Lite,Food & Beverage,27,1270.62,34306.74,West,Cancelled,Online,11,2025,2025Q4
+ORD-1130,2026-05-16,CUST-171,Add Basic,Food & Beverage,35,523.2,18312.0,West,Shipped,In-Store,5,2026,2026Q2
+ORD-1131,2024-06-24,CUST-226,See Plus,Furniture,1,287.32,287.32,South,Returned,In-Store,6,2024,2024Q2
+ORD-1132,2025-11-05,CUST-481,Only Basic,Food & Beverage,35,1671.51,58502.85,East,Shipped,Phone,11,2025,2025Q4
+ORD-1133,2025-01-28,CUST-387,Society Lite,Electronics,37,1968.96,72851.52,North,Shipped,Online,1,2025,2025Q1
+ORD-1134,2025-03-25,CUST-375,Question Lite,Sports,47,1056.12,49637.64,North,Cancelled,Online,3,2025,2025Q1
+ORD-1135,2024-07-31,CUST-234,Expect Lite,Furniture,14,351.64,4922.96,East,Returned,In-Store,7,2024,2024Q3
+ORD-1137,2025-09-29,CUST-399,Place Basic,Food & Beverage,1,46.6,46.6,Central,Shipped,Mobile App,9,2025,2025Q3
+ORD-1138,2024-12-07,CUST-319,Sometimes Plus,Furniture,5,1829.45,9147.25,North,Pending,Phone,12,2024,2024Q4
+ORD-1139,2026-05-04,CUST-398,Card Basic,Food & Beverage,26,244.32,6352.32,East,Pending,Phone,5,2026,2026Q2
+ORD-1140,2025-08-29,CUST-304,Professor Lite,Furniture,14,1157.27,16201.78,East,Delivered,In-Store,8,2025,2025Q3
+ORD-1141,2025-08-09,CUST-285,Become Plus,Electronics,39,555.37,21659.43,West,Returned,Online,8,2025,2025Q3
+ORD-1142,2026-02-23,CUST-212,Movie Basic,Electronics,27,1112.81,30045.87,Central,Returned,Mobile App,2,2026,2026Q1
+ORD-1143,2026-02-09,CUST-170,Artist Lite,Clothing,9,1306.33,11756.97,Central,Shipped,Mobile App,2,2026,2026Q1
+ORD-1144,2026-04-13,CUST-360,Lead Lite,Furniture,15,1661.19,24917.85,West,Delivered,Mobile App,4,2026,2026Q2
+ORD-1145,2025-10-28,CUST-352,Large Plus,Sports,15,420.78,6311.7,South,Delivered,Mobile App,10,2025,2025Q4
+ORD-1146,2025-11-17,CUST-146,Region Max,Electronics,26,31.88,828.88,Central,Delivered,In-Store,11,2025,2025Q4
+ORD-1147,2024-09-11,CUST-486,Experience Plus,Clothing,42,282.4,11860.8,West,Returned,Mobile App,9,2024,2024Q3
+ORD-1148,2025-07-16,CUST-124,Physical Max,Furniture,13,1801.04,23413.52,East,Returned,Online,7,2025,2025Q3
+ORD-1149,2025-12-25,CUST-156,Head Pro,Clothing,32,1749.04,55969.28,South,Cancelled,Mobile App,12,2025,2025Q4
+ORD-1150,2025-12-16,CUST-178,Front Plus,Electronics,39,1198.85,46755.15,North,Returned,Phone,12,2025,2025Q4
+ORD-1151,2025-05-13,CUST-421,Anyone Max,Clothing,49,1205.03,59046.47,East,Returned,Online,5,2025,2025Q2
+ORD-1152,2025-08-22,CUST-181,Her Basic,Furniture,32,1333.42,42669.44,South,Delivered,Mobile App,8,2025,2025Q3
+ORD-1153,2025-03-15,CUST-448,Example Lite,Food & Beverage,4,358.99,1435.96,West,Pending,In-Store,3,2025,2025Q1
+ORD-1154,2025-12-02,CUST-316,Child Pro,Sports,30,1829.68,54890.4,East,Shipped,In-Store,12,2025,2025Q4
+ORD-1155,2026-04-13,CUST-405,Rise Plus,Electronics,37,843.35,31203.95,South,Pending,Mobile App,4,2026,2026Q2
+ORD-1156,2025-07-06,CUST-132,Little Max,Furniture,23,772.45,17766.35,North,Shipped,Phone,7,2025,2025Q3
+ORD-1157,2025-12-19,CUST-297,Young Basic,Furniture,39,1042.65,40663.35,East,Cancelled,In-Store,12,2025,2025Q4
+ORD-1158,2025-09-30,CUST-295,General Max,Clothing,45,103.46,4655.7,East,Returned,Online,9,2025,2025Q3
+ORD-1159,2024-10-03,CUST-405,Case Plus,Electronics,15,340.9,5113.5,Central,Shipped,Phone,10,2024,2024Q4
+ORD-1160,2025-07-02,CUST-339,Piece Max,Food & Beverage,43,1478.69,63583.67,South,Shipped,In-Store,7,2025,2025Q3
+ORD-1161,2024-11-10,CUST-370,Meet Plus,Food & Beverage,29,174.77,5068.33,South,Shipped,Phone,11,2024,2024Q4
+ORD-1162,2025-05-10,CUST-228,Available Max,Sports,36,1210.27,43569.72,Central,Shipped,In-Store,5,2025,2025Q2
+ORD-1163,2025-02-24,CUST-383,Sign Lite,Sports,13,498.24,6477.12,West,Returned,In-Store,2,2025,2025Q1
+ORD-1164,2024-11-24,CUST-105,None Plus,Clothing,32,784.7,25110.4,West,Pending,Phone,11,2024,2024Q4
+ORD-1165,2025-08-05,CUST-448,Impact Plus,Electronics,7,584.5,4091.5,Central,Shipped,Mobile App,8,2025,2025Q3
+ORD-1166,2024-10-28,CUST-469,Risk Pro,Food & Beverage,22,717.79,15791.38,East,Delivered,Mobile App,10,2024,2024Q4
+ORD-1167,2026-02-14,CUST-158,Free Lite,Electronics,28,1440.9,40345.2,North,Shipped,Phone,2,2026,2026Q1
+ORD-1168,2025-10-08,CUST-449,Inside Plus,Clothing,2,601.27,1202.54,West,Returned,In-Store,10,2025,2025Q4
+ORD-1169,2024-11-07,CUST-374,Be Basic,Electronics,42,1137.15,47760.3,North,Delivered,In-Store,11,2024,2024Q4
+ORD-1170,2024-08-15,CUST-484,Bill Max,Electronics,45,957.34,43080.3,South,Returned,In-Store,8,2024,2024Q3
+ORD-1171,2026-05-25,CUST-236,Husband Basic,Electronics,6,1330.71,7984.26,South,Shipped,In-Store,5,2026,2026Q2
+ORD-1172,2025-07-28,CUST-493,Sure Max,Clothing,28,1874.29,52480.12,West,Returned,In-Store,7,2025,2025Q3
+ORD-1173,2025-01-26,CUST-428,Its Max,Clothing,28,1467.82,41098.96,East,Delivered,Mobile App,1,2025,2025Q1
+ORD-1174,2024-08-02,CUST-274,Loss Pro,Clothing,44,437.73,19260.12,South,Pending,In-Store,8,2024,2024Q3
+ORD-1175,2025-11-09,CUST-157,Section Plus,Food & Beverage,44,72.05,3170.2,North,Delivered,Phone,11,2025,2025Q4
+ORD-1176,2025-12-22,CUST-250,More Max,Furniture,20,531.91,10638.2,East,Pending,In-Store,12,2025,2025Q4
+ORD-1177,2025-06-01,CUST-322,Most Pro,Electronics,30,1194.21,35826.3,West,Delivered,In-Store,6,2025,2025Q2
+ORD-1178,2026-05-20,CUST-180,Course Basic,Sports,11,112.34,1235.74,South,Pending,Mobile App,5,2026,2026Q2
+ORD-1179,2025-12-26,CUST-332,Drug Pro,Sports,28,997.77,27937.56,West,Returned,Online,12,2025,2025Q4
+ORD-1180,2026-04-23,CUST-101,Else Basic,Furniture,25,1197.72,29943.0,East,Cancelled,Online,4,2026,2026Q2
+ORD-1181,2024-08-21,CUST-469,Carry Plus,Electronics,39,675.15,26330.85,East,Pending,In-Store,8,2024,2024Q3
+ORD-1182,2025-07-01,CUST-468,Teacher Max,Electronics,33,1544.12,50955.96,East,Pending,Mobile App,7,2025,2025Q3
+ORD-1183,2026-04-26,CUST-234,Wish Lite,Electronics,1,222.13,222.13,Central,Shipped,In-Store,4,2026,2026Q2
+ORD-1184,2024-12-02,CUST-356,Live Basic,Clothing,27,159.52,4307.04,Central,Shipped,Online,12,2024,2024Q4
+ORD-1185,2024-12-10,CUST-490,Likely Max,Food & Beverage,13,1459.1,18968.3,North,Delivered,Mobile App,12,2024,2024Q4
+ORD-1186,2026-05-06,CUST-191,Peace Lite,Clothing,41,996.03,40837.23,East,Pending,Phone,5,2026,2026Q2
+ORD-1187,2025-07-25,CUST-359,Speak Lite,Electronics,3,1379.92,4139.76,East,Returned,Phone,7,2025,2025Q3
+ORD-1188,2025-11-18,CUST-154,Course Basic,Furniture,39,875.31,34137.09,South,Delivered,Mobile App,11,2025,2025Q4
+ORD-1189,2025-07-28,CUST-420,Two Max,Electronics,6,1037.7849999999999,6226.71,North,Shipped,Phone,7,2025,2025Q3
+ORD-1190,2025-10-19,CUST-252,Red Lite,Electronics,8,1640.01,13120.08,North,Pending,Mobile App,10,2025,2025Q4
+ORD-1191,2025-02-22,CUST-427,With Pro,Food & Beverage,27,1600.84,43222.68,West,Cancelled,In-Store,2,2025,2025Q1
+ORD-1192,2025-01-23,CUST-359,Dark Pro,Electronics,9,1392.45,12532.05,East,Cancelled,In-Store,1,2025,2025Q1
+ORD-1193,2024-09-16,CUST-411,Rich Max,Clothing,37,551.57,20408.09,South,Pending,Online,9,2024,2024Q3
+ORD-1194,2024-10-09,CUST-201,Young Plus,Sports,33,1184.56,39090.48,West,Returned,In-Store,10,2024,2024Q4
+ORD-1195,2025-03-26,CUST-178,Force Pro,Food & Beverage,42,728.34,30590.28,Central,Pending,In-Store,3,2025,2025Q1
+ORD-1196,2026-02-03,CUST-291,Act Basic,Food & Beverage,44,192.25,8459.0,East,Returned,Online,2,2026,2026Q1
+ORD-1197,2024-11-01,CUST-490,Involve Max,Food & Beverage,24,1835.45,44050.8,North,Shipped,Mobile App,11,2024,2024Q4
+ORD-1198,2025-01-18,CUST-182,War Lite,Electronics,15,282.27,4234.05,East,Returned,In-Store,1,2025,2025Q1
+ORD-1199,2025-02-04,CUST-376,Travel Pro,Food & Beverage,32,1900.97,60831.04,East,Returned,In-Store,2,2025,2025Q1
+ORD-1200,2025-06-11,CUST-498,Travel Max,Food & Beverage,32,897.55,28721.6,Central,Pending,In-Store,6,2025,2025Q2
+ORD-1201,2025-06-04,CUST-371,Scientist Max,Clothing,24,378.41,9081.84,South,Pending,Online,6,2025,2025Q2
+ORD-1202,2026-05-16,CUST-100,Generation Plus,Furniture,41,1088.38,44623.58,South,Cancelled,Mobile App,5,2026,2026Q2
+ORD-1203,2025-01-25,CUST-406,Wish Lite,Clothing,49,1747.16,85610.84,South,Shipped,Online,1,2025,2025Q1
+ORD-1204,2026-04-14,CUST-265,Pressure Lite,Clothing,49,1467.13,71889.37,West,Delivered,Phone,4,2026,2026Q2
+ORD-1205,2024-06-21,CUST-350,Candidate Lite,Furniture,12,1615.06,19380.72,South,Pending,In-Store,6,2024,2024Q2
+ORD-1206,2025-02-07,CUST-109,Medical Basic,Furniture,39,1320.98,51518.22,West,Shipped,Phone,2,2025,2025Q1
+ORD-1207,2024-07-20,CUST-157,Environmental Max,Food & Beverage,2,1387.63,2775.26,Central,Shipped,Mobile App,7,2024,2024Q3
+ORD-1208,2024-09-30,CUST-285,Pass Basic,Clothing,3,1699.9,5099.7,East,Cancelled,In-Store,9,2024,2024Q3
+ORD-1209,2026-04-18,CUST-257,Yet Basic,Electronics,49,506.84,24835.16,West,Pending,Phone,4,2026,2026Q2
+ORD-1210,2025-12-03,CUST-222,Decision Max,Sports,37,983.96,36406.52,Central,Pending,Phone,12,2025,2025Q4
+ORD-1211,2025-09-02,CUST-129,Allow Lite,Sports,49,450.21,22060.29,West,Shipped,Phone,9,2025,2025Q3
+ORD-1212,2025-07-23,CUST-223,Staff Max,Sports,17,1975.46,33582.82,Central,Pending,In-Store,7,2025,2025Q3
+ORD-1213,2025-01-15,CUST-390,Seem Plus,Clothing,49,1888.68,92545.32,South,Cancelled,In-Store,1,2025,2025Q1
+ORD-1214,2025-10-14,CUST-140,Area Max,Furniture,2,88.46,176.92,South,Cancelled,In-Store,10,2025,2025Q4
+ORD-1215,2024-06-09,CUST-143,Idea Max,Food & Beverage,2,1414.09,2828.18,Central,Cancelled,In-Store,6,2024,2024Q2
+ORD-1216,2024-11-29,CUST-474,Wrong Pro,Food & Beverage,28,1851.24,51834.72,North,Pending,Online,11,2024,2024Q4
+ORD-1217,2025-02-19,CUST-348,Special Plus,Sports,23,369.34,8494.82,Central,Pending,Phone,2,2025,2025Q1
+ORD-1218,2026-02-20,CUST-135,Middle Pro,Food & Beverage,37,1140.21,42187.77,West,Cancelled,Online,2,2026,2026Q1
+ORD-1219,2025-05-23,CUST-489,Care Lite,Electronics,32,1831.82,58618.24,Central,Returned,Mobile App,5,2025,2025Q2
+ORD-1220,2026-01-27,CUST-372,I Lite,Electronics,33,77.55,2559.15,East,Delivered,Phone,1,2026,2026Q1
+ORD-1221,2025-09-10,CUST-492,These Plus,Furniture,1,1397.87,1397.87,North,Shipped,In-Store,9,2025,2025Q3
+ORD-1222,2025-10-11,CUST-164,Go Basic,Food & Beverage,19,601.72,11432.68,Central,Returned,In-Store,10,2025,2025Q4
+ORD-1223,2025-11-15,CUST-165,Science Max,Clothing,2,1849.55,3699.1,North,Delivered,In-Store,11,2025,2025Q4
+ORD-1224,2025-10-25,CUST-437,Without Pro,Food & Beverage,44,1942.41,85466.04,North,Pending,Online,10,2025,2025Q4
+ORD-1225,2026-03-17,CUST-343,Source Plus,Clothing,26,1889.09,49116.34,Central,Shipped,In-Store,3,2026,2026Q1
+ORD-1226,2025-10-06,CUST-381,Table Pro,Sports,32,953.69,30518.08,Central,Returned,Phone,10,2025,2025Q4
+ORD-1227,2025-06-04,CUST-184,Might Max,Clothing,6,1725.46,10352.76,South,Shipped,Phone,6,2025,2025Q2
+ORD-1228,2025-10-31,CUST-235,Enough Basic,Sports,32,1690.65,54100.8,Central,Pending,Mobile App,10,2025,2025Q4
+ORD-1229,2025-06-03,CUST-370,Management Pro,Electronics,4,645.01,2580.04,Central,Delivered,Phone,6,2025,2025Q2
+ORD-1230,2024-10-18,CUST-410,Conference Plus,Food & Beverage,11,1037.7849999999999,11415.63,South,Delivered,In-Store,10,2024,2024Q4
+ORD-1231,2026-03-24,CUST-316,Protect Max,Furniture,17,83.65,1422.05,South,Delivered,Phone,3,2026,2026Q1
+ORD-1232,2025-04-22,CUST-208,Tonight Max,Food & Beverage,38,1196.58,45470.04,East,Returned,Phone,4,2025,2025Q2
+ORD-1233,2026-02-11,CUST-376,Water Basic,Sports,24,467.72,11225.28,Central,Delivered,Online,2,2026,2026Q1
+ORD-1234,2025-04-08,CUST-486,Beautiful Plus,Food & Beverage,5,249.93,1249.65,West,Returned,Phone,4,2025,2025Q2
+ORD-1235,2024-10-30,CUST-473,Now Max,Furniture,34,163.14,5546.76,North,Returned,Mobile App,10,2024,2024Q4
+ORD-1236,2026-02-20,CUST-453,Rise Pro,Sports,6,1395.61,8373.66,South,Cancelled,Phone,2,2026,2026Q1
+ORD-1237,2026-04-25,CUST-202,Director Lite,Sports,22,686.35,15099.7,Central,Returned,Online,4,2026,2026Q2
+ORD-1238,2025-11-02,CUST-465,As Plus,Furniture,11,1452.29,15975.19,West,Shipped,Online,11,2025,2025Q4
+ORD-1240,2026-04-19,CUST-304,Notice Basic,Furniture,16,637.43,10198.88,Central,Returned,Phone,4,2026,2026Q2
+ORD-1241,2025-12-20,CUST-443,Recognize Basic,Clothing,33,1083.59,35758.47,West,Pending,Online,12,2025,2025Q4
+ORD-1242,2025-01-09,CUST-432,Attack Max,Electronics,9,1583.54,14251.86,North,Returned,In-Store,1,2025,2025Q1
+ORD-1243,2025-10-19,CUST-291,Image Basic,Furniture,6,644.32,3865.92,West,Returned,Phone,10,2025,2025Q4
+ORD-1245,2025-04-15,CUST-364,Plant Pro,Clothing,29,1773.1,51419.9,Central,Shipped,Phone,4,2025,2025Q2
+ORD-1246,2025-09-25,CUST-331,Admit Plus,Electronics,3,1235.57,3706.71,West,Pending,Online,9,2025,2025Q3
+ORD-1247,2024-06-28,CUST-161,And Max,Furniture,20,473.59,9471.8,West,Cancelled,In-Store,6,2024,2024Q2
+ORD-1248,2024-11-19,CUST-226,Avoid Plus,Electronics,36,1037.7849999999999,37360.26,Central,Shipped,Mobile App,11,2024,2024Q4
+ORD-1249,2024-10-10,CUST-215,Support Pro,Food & Beverage,19,1741.5,33088.5,North,Returned,Phone,10,2024,2024Q4
+ORD-1250,2025-03-13,CUST-132,Speech Lite,Sports,26,52.33,1360.58,Central,Pending,Phone,3,2025,2025Q1
+ORD-1251,2025-07-11,CUST-273,Do Pro,Furniture,3,1750.66,5251.98,West,Shipped,Mobile App,7,2025,2025Q3
+ORD-1252,2024-10-17,CUST-110,Guess Pro,Sports,19,1062.58,20189.02,East,Cancelled,Mobile App,10,2024,2024Q4
+ORD-1253,2024-07-24,CUST-401,Hear Max,Clothing,20,1878.74,37574.8,North,Returned,Phone,7,2024,2024Q3
+ORD-1255,2025-03-15,CUST-217,Newspaper Pro,Electronics,7,1995.89,13971.23,East,Delivered,Phone,3,2025,2025Q1
+ORD-1256,2024-06-14,CUST-401,Garden Pro,Clothing,41,707.92,29024.72,North,Cancelled,Mobile App,6,2024,2024Q2
+ORD-1257,2025-04-24,CUST-212,Least Lite,Clothing,33,1536.7,50711.1,South,Pending,Online,4,2025,2025Q2
+ORD-1258,2026-02-04,CUST-103,Study Basic,Furniture,40,809.84,32393.6,Central,Returned,In-Store,2,2026,2026Q1
+ORD-1260,2025-08-20,CUST-462,Report Plus,Electronics,18,1258.74,22657.32,North,Shipped,Phone,8,2025,2025Q3
+ORD-1261,2024-09-13,CUST-423,Their Plus,Clothing,40,1748.62,69944.8,West,Returned,Online,9,2024,2024Q3
+ORD-1262,2026-02-25,CUST-130,Red Max,Sports,1,1968.33,1968.33,East,Shipped,Online,2,2026,2026Q1
+ORD-1263,2024-06-02,CUST-217,Happy Basic,Food & Beverage,11,1538.86,16927.46,North,Returned,In-Store,6,2024,2024Q2
+ORD-1264,2024-09-16,CUST-134,Affect Plus,Furniture,28,841.36,23558.08,Central,Shipped,In-Store,9,2024,2024Q3
+ORD-1265,2026-05-07,CUST-116,The Basic,Clothing,25,848.5,21212.5,North,Cancelled,Phone,5,2026,2026Q2
+ORD-1266,2024-10-24,CUST-269,Of Lite,Clothing,23,1477.79,33989.17,North,Shipped,Phone,10,2024,2024Q4
+ORD-1267,2025-02-10,CUST-136,Life Plus,Clothing,31,485.17,15040.27,West,Shipped,Mobile App,2,2025,2025Q1
+ORD-1268,2025-10-12,CUST-363,Indeed Pro,Sports,30,229.84,6895.2,North,Returned,Phone,10,2025,2025Q4
+ORD-1269,2024-08-14,CUST-221,Future Plus,Furniture,42,715.7,30059.4,East,Returned,Online,8,2024,2024Q3
+ORD-1271,2024-11-07,CUST-442,Say Plus,Sports,7,599.65,4197.55,South,Cancelled,Phone,11,2024,2024Q4
+ORD-1272,2024-06-18,CUST-348,Perform Max,Electronics,16,474.88,7598.08,South,Pending,In-Store,6,2024,2024Q2
+ORD-1273,2025-01-05,CUST-209,College Pro,Furniture,26,93.77,2438.02,West,Delivered,Phone,1,2025,2025Q1
+ORD-1274,2026-04-29,CUST-376,Hundred Max,Sports,48,45.57,2187.36,East,Shipped,Online,4,2026,2026Q2
+ORD-1275,2024-07-08,CUST-167,Hot Lite,Sports,49,1975.57,96802.93,West,Cancelled,Mobile App,7,2024,2024Q3
+ORD-1276,2026-03-20,CUST-470,Floor Plus,Clothing,2,861.27,1722.54,West,Shipped,Mobile App,3,2026,2026Q1
+ORD-1277,2026-01-02,CUST-392,Public Plus,Sports,1,774.81,774.81,West,Delivered,In-Store,1,2026,2026Q1
+ORD-1278,2025-02-22,CUST-395,Play Lite,Clothing,48,1362.5,65400.0,West,Pending,Online,2,2025,2025Q1
+ORD-1279,2024-11-07,CUST-342,Real Max,Food & Beverage,12,444.33,5331.96,North,Pending,Online,11,2024,2024Q4
+ORD-1280,2024-07-09,CUST-224,Kitchen Pro,Sports,5,1900.42,9502.1,Unknown,Shipped,Online,7,2024,2024Q3
+ORD-1281,2026-03-25,CUST-342,Amount Max,Furniture,37,1574.83,58268.71,South,Delivered,Phone,3,2026,2026Q1
+ORD-1282,2025-02-18,CUST-308,Involve Basic,Clothing,32,187.93,6013.76,East,Shipped,Mobile App,2,2025,2025Q1
+ORD-1283,2025-03-28,CUST-197,Bit Max,Food & Beverage,9,840.99,7568.91,North,Returned,Online,3,2025,2025Q1
+ORD-1284,2024-10-08,CUST-148,View Pro,Electronics,41,1759.45,72137.45,South,Pending,Phone,10,2024,2024Q4
+ORD-1285,2025-01-12,CUST-149,Environment Plus,Electronics,35,1037.7849999999999,36322.47,Central,Cancelled,In-Store,1,2025,2025Q1
+ORD-1286,2025-01-22,CUST-437,Different Max,Electronics,19,940.13,17862.47,West,Cancelled,Phone,1,2025,2025Q1
+ORD-1287,2025-06-11,CUST-320,Arrive Lite,Clothing,48,1230.69,59073.12,Central,Cancelled,Phone,6,2025,2025Q2
+ORD-1288,2026-01-17,CUST-281,Perform Pro,Sports,16,342.4,5478.4,South,Delivered,Online,1,2026,2026Q1
+ORD-1289,2025-12-26,CUST-316,Degree Plus,Clothing,3,1982.43,5947.29,South,Delivered,In-Store,12,2025,2025Q4
+ORD-1290,2025-01-04,CUST-310,Guess Pro,Electronics,20,471.03,9420.6,North,Pending,Mobile App,1,2025,2025Q1
+ORD-1291,2025-10-14,CUST-339,Little Lite,Sports,24,1886.04,45264.96,North,Delivered,In-Store,10,2025,2025Q4
+ORD-1292,2025-06-19,CUST-473,Fund Basic,Food & Beverage,33,1302.8,42992.4,East,Returned,In-Store,6,2025,2025Q2
+ORD-1293,2025-12-07,CUST-127,When Pro,Electronics,24,1219.4,29265.6,West,Pending,In-Store,12,2025,2025Q4
+ORD-1294,2024-12-22,CUST-444,Woman Pro,Furniture,11,1030.25,11332.75,Central,Pending,In-Store,12,2024,2024Q4
+ORD-1295,2026-01-14,CUST-434,Any Max,Sports,49,469.03,22982.47,West,Returned,Online,1,2026,2026Q1
+ORD-1296,2025-01-24,CUST-430,Car Lite,Clothing,8,361.29,2890.32,Central,Returned,Phone,1,2025,2025Q1
+ORD-1297,2024-09-21,CUST-150,Law Lite,Clothing,36,1037.7849999999999,37360.26,West,Returned,Mobile App,9,2024,2024Q3
+ORD-1298,2024-06-29,CUST-131,Occur Basic,Furniture,38,381.01,14478.38,South,Shipped,Mobile App,6,2024,2024Q2
+ORD-1299,2026-04-09,CUST-306,Send Lite,Clothing,40,1561.37,62454.8,South,Cancelled,Phone,4,2026,2026Q2
+ORD-1300,2024-08-29,CUST-472,Call Pro,Furniture,20,706.75,14135.0,West,Cancelled,Mobile App,8,2024,2024Q3
+ORD-1301,2025-10-20,CUST-273,Its Basic,Electronics,35,1037.7849999999999,36322.47,East,Pending,In-Store,10,2025,2025Q4
+ORD-1304,2025-09-12,CUST-198,Explain Lite,Sports,35,1856.23,64968.05,South,Returned,In-Store,9,2025,2025Q3
+ORD-1305,2024-09-01,CUST-197,Up Lite,Clothing,25,1989.87,49746.75,North,Pending,Online,9,2024,2024Q3
+ORD-1306,2025-09-30,CUST-374,Shoulder Max,Electronics,29,356.05,10325.45,North,Cancelled,Mobile App,9,2025,2025Q3
+ORD-1307,2025-01-28,CUST-329,Have Lite,Sports,18,798.52,14373.36,West,Shipped,Online,1,2025,2025Q1
+ORD-1308,2025-11-28,CUST-171,Result Basic,Furniture,46,1518.89,69868.94,Central,Returned,Phone,11,2025,2025Q4
+ORD-1309,2025-03-24,CUST-316,Budget Pro,Electronics,18,1395.08,25111.44,North,Cancelled,Phone,3,2025,2025Q1
+ORD-1310,2024-06-28,CUST-193,Explain Max,Furniture,2,316.25,632.5,South,Pending,Phone,6,2024,2024Q2
+ORD-1311,2024-07-19,CUST-242,Management Lite,Food & Beverage,35,1633.51,57172.85,South,Pending,Online,7,2024,2024Q3
+ORD-1312,2025-12-12,CUST-336,Style Lite,Sports,16,456.64,7306.24,North,Cancelled,Phone,12,2025,2025Q4
+ORD-1313,2026-04-02,CUST-227,Environment Basic,Electronics,41,455.4,18671.4,North,Cancelled,In-Store,4,2026,2026Q2
+ORD-1316,2025-09-06,CUST-381,Culture Pro,Furniture,4,1164.37,4657.48,West,Returned,Phone,9,2025,2025Q3
+ORD-1317,2025-11-10,CUST-150,Control Pro,Clothing,33,192.06,6337.98,Central,Shipped,Phone,11,2025,2025Q4
+ORD-1318,2025-05-02,CUST-125,Down Lite,Clothing,14,1756.15,24586.1,North,Cancelled,Phone,5,2025,2025Q2
+ORD-1319,2026-02-27,CUST-433,Work Pro,Food & Beverage,21,1037.7849999999999,21793.48,South,Shipped,Online,2,2026,2026Q1
+ORD-1320,2026-03-09,CUST-376,Chair Max,Food & Beverage,48,267.73,12851.04,North,Shipped,Online,3,2026,2026Q1
+ORD-1321,2025-10-02,CUST-107,Mrs Lite,Furniture,20,1778.61,35572.2,West,Delivered,In-Store,10,2025,2025Q4
+ORD-1322,2025-12-09,CUST-147,Performance Basic,Clothing,8,1911.75,15294.0,West,Returned,Mobile App,12,2025,2025Q4
+ORD-1323,2025-02-25,CUST-485,Probably Max,Sports,7,1725.63,12079.41,South,Pending,In-Store,2,2025,2025Q1
+ORD-1324,2024-08-28,CUST-221,Film Pro,Sports,3,1620.94,4862.82,Central,Shipped,Online,8,2024,2024Q3
+ORD-1325,2025-04-29,CUST-185,South Lite,Furniture,17,1313.93,22336.81,South,Shipped,In-Store,4,2025,2025Q2
+ORD-1326,2026-05-10,CUST-308,Left Max,Clothing,33,1106.21,36504.93,North,Shipped,In-Store,5,2026,2026Q2
+ORD-1327,2024-07-30,CUST-348,Type Pro,Sports,48,183.1,8788.8,South,Shipped,Online,7,2024,2024Q3
+ORD-1328,2025-05-24,CUST-346,Himself Lite,Clothing,12,822.82,9873.84,Central,Pending,Mobile App,5,2025,2025Q2
+ORD-1331,2025-03-04,CUST-130,Group Pro,Furniture,46,1449.61,66682.06,Central,Shipped,Online,3,2025,2025Q1
+ORD-1332,2026-01-16,CUST-184,Apply Pro,Clothing,30,1037.7849999999999,31133.55,East,Cancelled,Mobile App,1,2026,2026Q1
+ORD-1333,2025-03-30,CUST-294,Century Plus,Clothing,38,171.28,6508.64,Central,Pending,Mobile App,3,2025,2025Q1
+ORD-1334,2025-10-15,CUST-101,Fund Plus,Electronics,38,448.16,17030.08,Central,Delivered,Online,10,2025,2025Q4
+ORD-1335,2025-12-03,CUST-299,Away Max,Sports,45,1369.68,61635.6,East,Cancelled,Online,12,2025,2025Q4
+ORD-1336,2024-11-29,CUST-235,Bed Basic,Food & Beverage,8,161.5,1292.0,South,Cancelled,Online,11,2024,2024Q4
+ORD-1337,2025-02-02,CUST-332,Fast Basic,Sports,27,1703.9,46005.3,East,Cancelled,Phone,2,2025,2025Q1
+ORD-1338,2025-05-28,CUST-246,Former Pro,Electronics,27,995.34,26874.18,South,Shipped,In-Store,5,2025,2025Q2
+ORD-1339,2024-07-15,CUST-316,Tv Plus,Clothing,34,966.37,32856.58,Central,Returned,In-Store,7,2024,2024Q3
+ORD-1341,2025-06-28,CUST-474,Main Lite,Furniture,30,1651.12,49533.6,West,Cancelled,In-Store,6,2025,2025Q2
+ORD-1342,2025-08-07,CUST-384,Bar Basic,Sports,33,702.14,23170.62,East,Delivered,Phone,8,2025,2025Q3
+ORD-1343,2026-01-31,CUST-438,Apply Pro,Clothing,28,1359.25,38059.0,East,Shipped,Mobile App,1,2026,2026Q1
+ORD-1344,2024-07-01,CUST-467,Cell Basic,Sports,47,1135.81,53383.07,North,Delivered,Online,7,2024,2024Q3
+ORD-1345,2024-11-22,CUST-349,Begin Max,Electronics,33,541.39,17865.87,Central,Shipped,Online,11,2024,2024Q4
+ORD-1346,2026-01-22,CUST-179,Growth Plus,Food & Beverage,5,1758.47,8792.35,Central,Returned,Mobile App,1,2026,2026Q1
+ORD-1347,2024-06-14,CUST-197,Would Pro,Clothing,48,1596.88,76650.24,South,Returned,Mobile App,6,2024,2024Q2
+ORD-1348,2025-11-22,CUST-251,Personal Pro,Furniture,19,1320.32,25086.08,West,Shipped,Mobile App,11,2025,2025Q4
+ORD-1349,2025-09-03,CUST-211,Want Plus,Electronics,4,1702.66,6810.64,Central,Shipped,Phone,9,2025,2025Q3
+ORD-1350,2024-10-13,CUST-129,Yeah Plus,Clothing,35,1735.92,60757.2,West,Returned,Online,10,2024,2024Q4
+ORD-1352,2025-12-14,CUST-476,Heavy Pro,Furniture,17,1675.66,28486.22,East,Returned,Online,12,2025,2025Q4
+ORD-1353,2025-06-07,CUST-377,Fight Plus,Clothing,44,1397.97,61510.68,West,Shipped,Mobile App,6,2025,2025Q2
+ORD-1354,2024-08-30,CUST-131,Let Plus,Electronics,28,1363.48,38177.44,Central,Delivered,Phone,8,2024,2024Q3
+ORD-1355,2025-04-03,CUST-482,Occur Pro,Furniture,30,1241.04,37231.2,East,Shipped,In-Store,4,2025,2025Q2
+ORD-1356,2024-07-29,CUST-260,More Pro,Food & Beverage,29,1507.91,43729.39,West,Pending,Online,7,2024,2024Q3
+ORD-1357,2024-08-13,CUST-129,Speak Max,Electronics,46,325.62,14978.52,West,Shipped,Mobile App,8,2024,2024Q3
+ORD-1358,2025-09-03,CUST-125,Realize Basic,Furniture,6,1762.93,10577.58,Unknown,Returned,Mobile App,9,2025,2025Q3
+ORD-1360,2025-07-02,CUST-344,Magazine Pro,Clothing,41,68.2,2796.2,West,Returned,In-Store,7,2025,2025Q3
+ORD-1361,2026-02-20,CUST-357,Statement Lite,Electronics,37,1653.38,61175.06,South,Returned,In-Store,2,2026,2026Q1
+ORD-1362,2025-07-24,CUST-371,Before Max,Furniture,24,266.45,6394.8,Central,Delivered,Online,7,2025,2025Q3
+ORD-1363,2025-04-20,CUST-180,Maybe Basic,Furniture,29,676.89,19629.81,West,Pending,Online,4,2025,2025Q2
+ORD-1364,2025-04-18,CUST-129,Feel Basic,Electronics,49,1489.58,72989.42,South,Delivered,Online,4,2025,2025Q2
+ORD-1365,2026-02-08,CUST-360,Sort Basic,Electronics,46,329.91,15175.86,South,Shipped,Phone,2,2026,2026Q1
+ORD-1366,2025-02-19,CUST-141,Hospital Max,Electronics,31,1637.75,50770.25,East,Cancelled,Mobile App,2,2025,2025Q1
+ORD-1368,2024-12-08,CUST-135,Nice Basic,Food & Beverage,33,1019.86,33655.38,West,Cancelled,Mobile App,12,2024,2024Q4
+ORD-1369,2026-04-01,CUST-404,Foot Basic,Food & Beverage,21,22.71,476.91,North,Cancelled,Mobile App,4,2026,2026Q2
+ORD-1370,2025-05-17,CUST-134,Instead Max,Clothing,32,581.21,18598.72,Central,Shipped,Mobile App,5,2025,2025Q2
+ORD-1371,2024-12-01,CUST-445,Right Plus,Food & Beverage,23,1237.68,28466.64,West,Shipped,In-Store,12,2024,2024Q4
+ORD-1372,2026-01-10,CUST-220,Firm Basic,Food & Beverage,33,1962.56,64764.48,West,Cancelled,Phone,1,2026,2026Q1
+ORD-1374,2025-03-07,CUST-161,Item Plus,Furniture,18,527.01,9486.18,Central,Shipped,Phone,3,2025,2025Q1
+ORD-1375,2026-01-13,CUST-391,Republican Pro,Sports,25,1271.67,31791.75,South,Returned,In-Store,1,2026,2026Q1
+ORD-1376,2024-12-29,CUST-226,Open Pro,Food & Beverage,42,1084.57,45551.94,West,Shipped,In-Store,12,2024,2024Q4
+ORD-1378,2024-10-02,CUST-404,Future Lite,Food & Beverage,3,222.89,668.67,East,Returned,In-Store,10,2024,2024Q4
+ORD-1379,2025-02-12,CUST-120,Activity Plus,Sports,40,1524.45,60978.0,South,Pending,Online,2,2025,2025Q1
+ORD-1380,2025-10-15,CUST-417,Rock Plus,Clothing,46,1087.12,50007.52,Unknown,Shipped,Online,10,2025,2025Q4
+ORD-1381,2024-07-28,CUST-141,Executive Lite,Clothing,24,1926.35,46232.4,North,Pending,Online,7,2024,2024Q3
+ORD-1382,2025-12-02,CUST-314,Size Plus,Food & Beverage,32,690.33,22090.56,West,Cancelled,Phone,12,2025,2025Q4
+ORD-1383,2026-04-24,CUST-436,Senior Max,Electronics,47,1268.92,59639.24,East,Returned,Online,4,2026,2026Q2
+ORD-1384,2025-06-12,CUST-398,Lead Plus,Electronics,22,1864.74,41024.28,North,Returned,In-Store,6,2025,2025Q2
+ORD-1385,2025-01-31,CUST-389,Understand Plus,Furniture,23,213.99,4921.77,Central,Delivered,Phone,1,2025,2025Q1
+ORD-1386,2026-02-07,CUST-367,Me Plus,Electronics,2,1875.08,3750.16,South,Shipped,Phone,2,2026,2026Q1
+ORD-1388,2025-12-18,CUST-233,Mr Max,Furniture,42,145.0,6090.0,East,Cancelled,Mobile App,12,2025,2025Q4
+ORD-1389,2025-08-26,CUST-204,Address Plus,Electronics,2,608.92,1217.84,West,Shipped,Mobile App,8,2025,2025Q3
+ORD-1390,2024-08-12,CUST-442,Inside Max,Electronics,26,1419.26,36900.76,Central,Delivered,In-Store,8,2024,2024Q3
+ORD-1391,2024-12-08,CUST-466,Mother Max,Furniture,17,144.03,2448.51,Central,Delivered,Online,12,2024,2024Q4
+ORD-1392,2026-04-09,CUST-260,Whose Max,Clothing,40,1168.52,46740.8,North,Shipped,In-Store,4,2026,2026Q2
+ORD-1393,2024-12-06,CUST-222,Carry Lite,Food & Beverage,33,698.31,23044.23,North,Returned,Mobile App,12,2024,2024Q4
+ORD-1394,2024-09-15,CUST-235,Writer Plus,Clothing,9,1245.62,11210.58,South,Returned,Mobile App,9,2024,2024Q3
+ORD-1395,2025-03-04,CUST-302,Large Pro,Electronics,43,101.03,4344.29,Central,Cancelled,Online,3,2025,2025Q1
+ORD-1396,2025-10-17,CUST-167,Thank Pro,Sports,48,1744.36,83729.28,Central,Shipped,Mobile App,10,2025,2025Q4
+ORD-1397,2024-07-17,CUST-443,Sure Pro,Electronics,39,1947.24,75942.36,South,Returned,Mobile App,7,2024,2024Q3
+ORD-1398,2025-09-09,CUST-430,By Pro,Furniture,29,1938.07,56204.03,West,Shipped,Mobile App,9,2025,2025Q3
+ORD-1399,2025-10-01,CUST-253,Director Plus,Sports,42,1037.7849999999999,43586.97,South,Shipped,Online,10,2025,2025Q4
+ORD-1400,2024-07-01,CUST-334,Tend Pro,Sports,26,268.87,6990.62,East,Pending,Online,7,2024,2024Q3
+ORD-1401,2024-10-13,CUST-261,Strategy Max,Food & Beverage,35,1518.94,53162.9,East,Returned,Mobile App,10,2024,2024Q4
+ORD-1402,2025-09-18,CUST-484,Develop Lite,Electronics,25,58.93,1473.25,North,Returned,Mobile App,9,2025,2025Q3
+ORD-1403,2024-10-28,CUST-137,Present Basic,Food & Beverage,24,54.03,1296.72,South,Delivered,Phone,10,2024,2024Q4
+ORD-1404,2026-04-08,CUST-104,Bag Pro,Clothing,13,653.98,8501.74,South,Returned,Online,4,2026,2026Q2
+ORD-1405,2025-11-13,CUST-334,Brother Basic,Sports,7,982.4,6876.8,North,Returned,In-Store,11,2025,2025Q4
+ORD-1406,2025-11-24,CUST-418,Red Basic,Food & Beverage,36,1543.11,55551.96,West,Delivered,In-Store,11,2025,2025Q4
+ORD-1407,2025-02-26,CUST-388,Study Basic,Clothing,45,1369.76,61639.2,South,Delivered,Mobile App,2,2025,2025Q1
+ORD-1408,2025-07-01,CUST-151,Only Max,Electronics,20,897.35,17947.0,Unknown,Cancelled,Mobile App,7,2025,2025Q3
+ORD-1409,2025-04-05,CUST-137,Weight Pro,Electronics,1,554.52,554.52,South,Shipped,Phone,4,2025,2025Q2
+ORD-1410,2026-05-23,CUST-375,Beautiful Plus,Furniture,8,1994.28,15954.24,West,Returned,Phone,5,2026,2026Q2
+ORD-1411,2026-01-19,CUST-209,Own Max,Clothing,46,858.1,39472.6,South,Returned,Online,1,2026,2026Q1
+ORD-1412,2025-10-29,CUST-359,Then Plus,Clothing,16,908.26,14532.16,Central,Delivered,In-Store,10,2025,2025Q4
+ORD-1413,2024-12-09,CUST-235,Economic Pro,Food & Beverage,14,335.61,4698.54,East,Cancelled,Phone,12,2024,2024Q4
+ORD-1414,2024-09-24,CUST-167,Truth Max,Sports,12,1591.67,19100.04,East,Returned,In-Store,9,2024,2024Q3
+ORD-1415,2024-07-22,CUST-278,Either Basic,Sports,23,1390.43,31979.89,West,Cancelled,Phone,7,2024,2024Q3
+ORD-1416,2025-05-12,CUST-135,Wonder Max,Furniture,15,449.33,6739.95,West,Pending,Mobile App,5,2025,2025Q2
+ORD-1417,2024-07-04,CUST-225,Smile Max,Furniture,28,173.94,4870.32,Central,Delivered,Phone,7,2024,2024Q3
+ORD-1418,2025-08-05,CUST-289,Picture Pro,Furniture,34,1364.19,46382.46,East,Returned,Phone,8,2025,2025Q3
+ORD-1419,2026-02-02,CUST-245,Against Basic,Clothing,2,1312.48,2624.96,East,Cancelled,Online,2,2026,2026Q1
+ORD-1421,2025-10-25,CUST-324,Find Lite,Electronics,23,1902.22,43751.06,East,Cancelled,Mobile App,10,2025,2025Q4
+ORD-1422,2025-05-02,CUST-378,Push Lite,Food & Beverage,22,310.61,6833.42,Central,Cancelled,Online,5,2025,2025Q2
+ORD-1423,2025-03-30,CUST-460,Radio Plus,Sports,25,870.35,21758.75,West,Pending,In-Store,3,2025,2025Q1
+ORD-1424,2024-07-19,CUST-254,Early Lite,Sports,22,1887.8,41531.6,West,Returned,Mobile App,7,2024,2024Q3
+ORD-1425,2026-05-08,CUST-413,Wish Pro,Food & Beverage,22,845.26,18595.72,North,Returned,Mobile App,5,2026,2026Q2
+ORD-1426,2025-07-04,CUST-434,Arm Max,Clothing,49,1280.67,62752.83,West,Delivered,Online,7,2025,2025Q3
+ORD-1427,2026-03-11,CUST-370,Little Basic,Electronics,42,801.21,33650.82,East,Cancelled,In-Store,3,2026,2026Q1
+ORD-1428,2024-07-26,CUST-104,Film Max,Furniture,6,555.69,3334.14,South,Shipped,Mobile App,7,2024,2024Q3
+ORD-1429,2026-02-09,CUST-441,Pretty Pro,Electronics,15,1968.12,29521.8,East,Pending,Online,2,2026,2026Q1
+ORD-1430,2025-07-02,CUST-383,Down Max,Food & Beverage,43,824.57,35456.51,East,Cancelled,Mobile App,7,2025,2025Q3
+ORD-1431,2026-05-01,CUST-253,Film Basic,Electronics,37,1789.26,66202.62,West,Shipped,Phone,5,2026,2026Q2
+ORD-1432,2025-11-08,CUST-439,Size Lite,Furniture,33,467.61,15431.13,North,Delivered,In-Store,11,2025,2025Q4
+ORD-1433,2026-04-12,CUST-153,Plan Plus,Sports,8,434.08,3472.64,Central,Pending,Phone,4,2026,2026Q2
+ORD-1434,2025-11-22,CUST-168,Adult Basic,Food & Beverage,44,71.96,3166.24,South,Returned,In-Store,11,2025,2025Q4
+ORD-1435,2026-04-11,CUST-235,Pull Basic,Clothing,44,1306.82,57500.08,South,Returned,Online,4,2026,2026Q2
+ORD-1436,2026-01-20,CUST-159,Put Basic,Electronics,5,743.37,3716.85,North,Cancelled,Mobile App,1,2026,2026Q1
+ORD-1437,2024-12-05,CUST-154,Discover Basic,Electronics,39,1730.07,67472.73,East,Pending,Mobile App,12,2024,2024Q4
+ORD-1438,2024-06-15,CUST-480,Size Pro,Clothing,4,951.69,3806.76,Central,Shipped,Online,6,2024,2024Q2
+ORD-1439,2024-07-14,CUST-383,Grow Basic,Clothing,6,1936.7,11620.2,Central,Delivered,Mobile App,7,2024,2024Q3
+ORD-1440,2024-06-05,CUST-179,Reach Max,Furniture,45,379.2,17064.0,Central,Delivered,Phone,6,2024,2024Q2
+ORD-1441,2026-02-27,CUST-239,Contain Pro,Electronics,32,1738.56,55633.92,West,Returned,Online,2,2026,2026Q1
+ORD-1442,2025-01-27,CUST-244,Church Lite,Food & Beverage,30,1555.43,46662.9,East,Returned,Phone,1,2025,2025Q1
+ORD-1443,2024-07-15,CUST-409,Key Max,Electronics,47,1544.13,72574.11,South,Delivered,In-Store,7,2024,2024Q3
+ORD-1444,2026-04-08,CUST-207,Water Max,Furniture,35,1691.12,59189.2,South,Returned,Mobile App,4,2026,2026Q2
+ORD-1445,2025-07-16,CUST-467,Whole Max,Food & Beverage,40,1524.44,60977.6,East,Delivered,Phone,7,2025,2025Q3
+ORD-1446,2025-11-28,CUST-275,Last Max,Food & Beverage,16,1256.18,20098.88,South,Cancelled,Mobile App,11,2025,2025Q4
+ORD-1447,2026-03-19,CUST-204,High Pro,Food & Beverage,13,271.18,3525.34,West,Shipped,In-Store,3,2026,2026Q1
+ORD-1448,2024-11-15,CUST-451,Whole Lite,Furniture,42,74.73,3138.66,Central,Pending,Mobile App,11,2024,2024Q4
+ORD-1449,2025-06-03,CUST-424,Find Lite,Electronics,30,1842.49,55274.7,South,Cancelled,In-Store,6,2025,2025Q2
+ORD-1450,2026-05-25,CUST-235,Minute Basic,Sports,19,1237.13,23505.47,West,Pending,Online,5,2026,2026Q2
+ORD-1451,2026-04-22,CUST-358,Visit Plus,Food & Beverage,17,1037.7849999999999,17642.34,Central,Delivered,Mobile App,4,2026,2026Q2
+ORD-1452,2025-08-12,CUST-350,Pressure Pro,Clothing,19,968.23,18396.37,East,Shipped,Online,8,2025,2025Q3
+ORD-1453,2025-03-21,CUST-228,Crime Lite,Furniture,28,243.44,6816.32,East,Cancelled,In-Store,3,2025,2025Q1
+ORD-1454,2026-03-06,CUST-126,Structure Pro,Food & Beverage,26,259.12,6737.12,West,Pending,Online,3,2026,2026Q1
+ORD-1455,2024-06-28,CUST-147,Read Pro,Furniture,37,1374.27,50847.99,West,Pending,Phone,6,2024,2024Q2
+ORD-1456,2025-08-22,CUST-424,Pressure Basic,Clothing,26,866.31,22524.06,West,Pending,Online,8,2025,2025Q3
+ORD-1457,2026-02-07,CUST-316,Especially Lite,Food & Beverage,23,409.04,9407.92,South,Returned,Phone,2,2026,2026Q1
+ORD-1458,2025-08-14,CUST-241,Author Plus,Electronics,9,988.27,8894.43,East,Cancelled,In-Store,8,2025,2025Q3
+ORD-1460,2025-06-07,CUST-101,Particularly Plus,Food & Beverage,1,1168.12,1168.12,South,Pending,Mobile App,6,2025,2025Q2
+ORD-1461,2024-12-02,CUST-270,Fill Max,Food & Beverage,1,545.3,545.3,Central,Returned,Phone,12,2024,2024Q4
+ORD-1462,2026-01-12,CUST-494,Build Lite,Furniture,47,1597.14,75065.58,West,Pending,Mobile App,1,2026,2026Q1
+ORD-1463,2025-09-30,CUST-166,Itself Max,Clothing,34,627.62,21339.08,South,Cancelled,Mobile App,9,2025,2025Q3
+ORD-1465,2025-06-20,CUST-234,Rule Max,Sports,48,33.12,1589.76,North,Cancelled,Online,6,2025,2025Q2
+ORD-1466,2026-01-16,CUST-182,Head Basic,Electronics,25,154.17,3854.25,Central,Returned,In-Store,1,2026,2026Q1
+ORD-1467,2025-09-05,CUST-479,Must Basic,Clothing,40,791.06,31642.4,North,Returned,In-Store,9,2025,2025Q3
+ORD-1468,2025-01-09,CUST-326,Against Pro,Electronics,45,965.08,43428.6,North,Cancelled,Online,1,2025,2025Q1
+ORD-1469,2024-09-13,CUST-382,Change Pro,Electronics,1,1204.04,1204.04,North,Shipped,Phone,9,2024,2024Q3
+ORD-1470,2025-09-01,CUST-461,Mouth Lite,Furniture,16,590.41,9446.56,North,Pending,Phone,9,2025,2025Q3
+ORD-1471,2024-08-06,CUST-318,Necessary Lite,Sports,39,1393.01,54327.39,West,Returned,Online,8,2024,2024Q3
+ORD-1472,2026-02-23,CUST-387,Under Basic,Food & Beverage,5,1721.64,8608.2,South,Returned,Online,2,2026,2026Q1
+ORD-1473,2024-09-05,CUST-104,Woman Pro,Sports,22,1561.9,34361.8,South,Cancelled,Mobile App,9,2024,2024Q3
+ORD-1474,2025-05-22,CUST-157,Difference Pro,Clothing,29,88.84,2576.36,North,Pending,Online,5,2025,2025Q2
+ORD-1476,2024-07-29,CUST-453,Throughout Plus,Electronics,12,218.81,2625.72,North,Returned,Mobile App,7,2024,2024Q3
+ORD-1477,2025-09-04,CUST-176,Campaign Plus,Food & Beverage,26,491.67,12783.42,South,Pending,Phone,9,2025,2025Q3
+ORD-1478,2025-03-31,CUST-379,He Plus,Sports,16,1973.46,31575.36,Central,Cancelled,Online,3,2025,2025Q1
+ORD-1479,2024-09-26,CUST-118,Method Basic,Food & Beverage,37,293.57,10862.09,West,Shipped,Online,9,2024,2024Q3
+ORD-1480,2025-05-14,CUST-289,View Plus,Sports,22,1002.79,22061.38,East,Delivered,Mobile App,5,2025,2025Q2
+ORD-1481,2024-07-18,CUST-398,Than Plus,Food & Beverage,29,1240.13,35963.77,North,Shipped,Online,7,2024,2024Q3
+ORD-1482,2026-02-27,CUST-382,Since Max,Sports,14,1407.91,19710.74,Central,Cancelled,Mobile App,2,2026,2026Q1
+ORD-1483,2025-07-11,CUST-175,Economic Lite,Clothing,28,1123.7,31463.6,Central,Shipped,In-Store,7,2025,2025Q3
+ORD-1484,2025-07-13,CUST-320,Per Basic,Food & Beverage,5,29.44,147.2,West,Delivered,Mobile App,7,2025,2025Q3
+ORD-1485,2025-04-23,CUST-165,Station Pro,Furniture,47,659.66,31004.02,West,Shipped,In-Store,4,2025,2025Q2
+ORD-1486,2026-01-06,CUST-121,Choose Max,Electronics,49,1040.25,50972.25,North,Returned,In-Store,1,2026,2026Q1
+ORD-1488,2026-04-22,CUST-286,Discuss Pro,Electronics,46,707.75,32556.5,Central,Pending,Mobile App,4,2026,2026Q2
+ORD-1489,2025-05-27,CUST-120,Ahead Max,Sports,5,76.07,380.35,Central,Returned,Mobile App,5,2025,2025Q2
+ORD-1490,2025-08-09,CUST-283,Live Basic,Sports,12,166.37,1996.44,West,Returned,Phone,8,2025,2025Q3
+ORD-1491,2025-05-14,CUST-207,Car Plus,Sports,16,799.88,12798.08,North,Delivered,Online,5,2025,2025Q2
+ORD-1492,2026-01-18,CUST-449,Response Basic,Sports,26,274.1,7126.6,North,Shipped,Mobile App,1,2026,2026Q1
+ORD-1493,2026-05-29,CUST-227,Investment Max,Sports,26,1139.41,29624.66,Central,Cancelled,In-Store,5,2026,2026Q2
+ORD-1494,2024-07-15,CUST-441,Rest Pro,Clothing,48,1382.04,66337.92,East,Delivered,In-Store,7,2024,2024Q3
+ORD-1495,2025-03-26,CUST-152,Middle Lite,Electronics,21,1603.17,33666.57,Central,Delivered,Mobile App,3,2025,2025Q1
+ORD-1496,2025-09-11,CUST-281,Maybe Plus,Food & Beverage,39,408.3,15923.7,East,Shipped,Online,9,2025,2025Q3
+ORD-1497,2024-06-15,CUST-499,Likely Basic,Clothing,36,343.29,12358.44,North,Cancelled,Online,6,2024,2024Q2
+ORD-1498,2024-07-19,CUST-386,Today Pro,Clothing,33,218.09,7196.97,Central,Returned,Online,7,2024,2024Q3
+ORD-1499,2025-12-18,CUST-308,When Pro,Clothing,30,1276.5,38295.0,West,Cancelled,In-Store,12,2025,2025Q4
+ORD-1500,2025-04-20,CUST-417,Meet Lite,Clothing,37,1415.89,52387.93,South,Delivered,Mobile App,4,2025,2025Q2
+ORD-1502,2024-06-25,CUST-179,My Lite,Electronics,10,1873.06,18730.6,North,Pending,Mobile App,6,2024,2024Q2
+ORD-1503,2024-11-25,CUST-221,Though Lite,Food & Beverage,5,113.42,567.1,Central,Shipped,In-Store,11,2024,2024Q4
+ORD-1504,2025-07-27,CUST-183,Eat Max,Electronics,36,1087.18,39138.48,South,Pending,Mobile App,7,2025,2025Q3
+ORD-1505,2026-05-29,CUST-190,Local Max,Food & Beverage,34,1421.03,48315.02,South,Delivered,In-Store,5,2026,2026Q2
+ORD-1506,2025-01-05,CUST-311,Site Max,Clothing,31,1743.23,54040.13,South,Returned,In-Store,1,2025,2025Q1
+ORD-1507,2025-06-23,CUST-112,She Pro,Clothing,10,1431.03,14310.3,Central,Delivered,Online,6,2025,2025Q2
+ORD-1508,2025-06-23,CUST-191,Finally Pro,Sports,19,1605.44,30503.36,Central,Cancelled,Mobile App,6,2025,2025Q2
+ORD-1509,2024-10-01,CUST-477,Player Plus,Furniture,32,685.51,21936.32,East,Cancelled,Mobile App,10,2024,2024Q4
+ORD-1510,2024-07-23,CUST-270,Itself Plus,Furniture,1,1631.5,1631.5,East,Returned,Phone,7,2024,2024Q3
+ORD-1511,2025-08-18,CUST-500,Suggest Lite,Electronics,5,169.43,847.15,East,Returned,Online,8,2025,2025Q3
+ORD-1512,2024-10-17,CUST-310,Hour Lite,Electronics,45,1790.69,80581.05,West,Pending,In-Store,10,2024,2024Q4
+ORD-1513,2026-03-20,CUST-442,Both Plus,Food & Beverage,4,1099.71,4398.84,North,Returned,Online,3,2026,2026Q1
+ORD-1514,2026-05-17,CUST-476,Model Basic,Sports,16,1636.42,26182.72,East,Delivered,Phone,5,2026,2026Q2
+ORD-1515,2025-08-02,CUST-227,Medical Lite,Food & Beverage,24,910.11,21842.64,West,Shipped,Online,8,2025,2025Q3
+ORD-1516,2024-09-07,CUST-236,Show Basic,Sports,16,1290.72,20651.52,West,Cancelled,Online,9,2024,2024Q3
+ORD-1517,2026-04-18,CUST-181,Gas Basic,Furniture,2,1057.54,2115.08,Central,Cancelled,Phone,4,2026,2026Q2
+ORD-1518,2025-09-15,CUST-459,Suffer Max,Furniture,49,1465.86,71827.14,South,Delivered,Online,9,2025,2025Q3
+ORD-1519,2025-08-18,CUST-155,He Pro,Sports,28,172.44,4828.32,South,Shipped,Online,8,2025,2025Q3
+ORD-1520,2024-06-07,CUST-295,Call Plus,Food & Beverage,32,130.1,4163.2,East,Returned,Phone,6,2024,2024Q2
+ORD-1521,2025-10-15,CUST-119,Today Pro,Electronics,27,501.74,13546.98,North,Pending,Phone,10,2025,2025Q4
+ORD-1522,2025-05-25,CUST-340,Player Plus,Sports,20,327.49,6549.8,North,Shipped,In-Store,5,2025,2025Q2
+ORD-1523,2025-07-08,CUST-213,Over Pro,Sports,24,1744.85,41876.4,North,Delivered,Phone,7,2025,2025Q3
+ORD-1524,2025-01-24,CUST-202,Management Plus,Sports,12,446.24,5354.88,West,Returned,Mobile App,1,2025,2025Q1
+ORD-1525,2026-03-28,CUST-335,Suffer Pro,Food & Beverage,35,1951.97,68318.95,West,Returned,Mobile App,3,2026,2026Q1
+ORD-1526,2025-01-31,CUST-279,History Max,Electronics,33,680.42,22453.86,West,Returned,Mobile App,1,2025,2025Q1
+ORD-1527,2024-11-11,CUST-256,So Basic,Food & Beverage,33,372.41,12289.53,Central,Shipped,In-Store,11,2024,2024Q4
+ORD-1529,2025-03-01,CUST-214,Test Basic,Clothing,37,1320.83,48870.71,North,Shipped,Phone,3,2025,2025Q1
+ORD-1530,2026-04-21,CUST-112,Form Plus,Sports,12,1001.41,12016.92,North,Delivered,In-Store,4,2026,2026Q2
+ORD-1531,2026-05-20,CUST-437,Speech Plus,Sports,3,1115.17,3345.51,South,Pending,Online,5,2026,2026Q2
+ORD-1534,2025-12-01,CUST-268,Bank Plus,Electronics,40,1992.7,79708.0,West,Shipped,Phone,12,2025,2025Q4
+ORD-1535,2024-10-17,CUST-242,Like Pro,Sports,10,1949.84,19498.4,East,Delivered,Mobile App,10,2024,2024Q4
+ORD-1536,2025-09-25,CUST-135,Moment Max,Electronics,43,1304.15,56078.45,Central,Pending,Phone,9,2025,2025Q3
+ORD-1538,2024-07-30,CUST-242,Dark Basic,Sports,29,1363.65,39545.85,Central,Pending,In-Store,7,2024,2024Q3
+ORD-1539,2025-02-08,CUST-279,Spend Plus,Furniture,13,153.67,1997.71,North,Cancelled,In-Store,2,2025,2025Q1
+ORD-1540,2025-03-22,CUST-428,Less Max,Food & Beverage,12,71.0,852.0,South,Cancelled,In-Store,3,2025,2025Q1
+ORD-1541,2025-06-01,CUST-360,Success Pro,Furniture,31,522.79,16206.49,South,Returned,Mobile App,6,2025,2025Q2
+ORD-1542,2024-12-08,CUST-304,What Plus,Food & Beverage,46,930.62,42808.52,Central,Shipped,Mobile App,12,2024,2024Q4
+ORD-1543,2025-02-14,CUST-447,Media Pro,Food & Beverage,2,1737.86,3475.72,West,Returned,Phone,2,2025,2025Q1
+ORD-1544,2024-12-10,CUST-374,Quality Lite,Sports,35,1457.07,50997.45,East,Delivered,In-Store,12,2024,2024Q4
+ORD-1545,2025-05-03,CUST-269,Mind Plus,Sports,23,1487.99,34223.77,North,Delivered,Mobile App,5,2025,2025Q2
+ORD-1546,2025-12-15,CUST-114,Natural Basic,Food & Beverage,17,856.73,14564.41,North,Delivered,Mobile App,12,2025,2025Q4
+ORD-1547,2025-07-04,CUST-159,Show Plus,Electronics,26,698.41,18158.66,East,Returned,Phone,7,2025,2025Q3
+ORD-1548,2025-09-27,CUST-233,Yard Basic,Clothing,8,748.37,5986.96,Central,Pending,Phone,9,2025,2025Q3
+ORD-1549,2026-06-01,CUST-191,Man Pro,Furniture,29,1975.42,57287.18,Central,Returned,Online,6,2026,2026Q2
+ORD-1550,2026-01-03,CUST-397,Whether Plus,Food & Beverage,26,89.82,2335.32,North,Returned,Online,1,2026,2026Q1
+ORD-1551,2025-10-12,CUST-235,Candidate Max,Clothing,10,1735.39,17353.9,South,Pending,Phone,10,2025,2025Q4
+ORD-1552,2024-07-12,CUST-119,Great Max,Sports,26,1161.56,30200.56,East,Pending,Online,7,2024,2024Q3
+ORD-1553,2025-06-05,CUST-155,Condition Lite,Sports,34,882.84,30016.56,North,Pending,Mobile App,6,2025,2025Q2
+ORD-1554,2025-02-03,CUST-405,Today Max,Food & Beverage,41,1453.26,59583.66,South,Shipped,Phone,2,2025,2025Q1
+ORD-1555,2025-05-15,CUST-322,Information Lite,Electronics,7,978.47,6849.29,Central,Returned,Phone,5,2025,2025Q2
+ORD-1556,2026-03-04,CUST-276,Because Pro,Food & Beverage,4,1748.11,6992.44,South,Shipped,In-Store,3,2026,2026Q1
+ORD-1557,2025-10-06,CUST-473,Speak Basic,Furniture,45,1802.4,81108.0,West,Cancelled,Mobile App,10,2025,2025Q4
+ORD-1558,2025-01-07,CUST-260,Office Pro,Clothing,11,849.22,9341.42,North,Cancelled,Mobile App,1,2025,2025Q1
+ORD-1559,2025-05-22,CUST-323,Always Basic,Electronics,29,560.89,16265.81,Unknown,Returned,In-Store,5,2025,2025Q2
+ORD-1560,2026-03-06,CUST-410,Pull Basic,Food & Beverage,36,1188.78,42796.08,South,Delivered,Online,3,2026,2026Q1
+ORD-1561,2025-04-14,CUST-361,Half Lite,Furniture,25,1825.6,45640.0,Central,Pending,Phone,4,2025,2025Q2
+ORD-1562,2025-02-04,CUST-159,Right Max,Furniture,21,429.22,9013.62,South,Shipped,Online,2,2025,2025Q1
+ORD-1563,2024-08-18,CUST-297,Wear Max,Electronics,36,1249.7,44989.2,Central,Cancelled,Mobile App,8,2024,2024Q3
+ORD-1564,2026-01-02,CUST-395,Travel Lite,Furniture,10,1266.8,12668.0,West,Returned,Online,1,2026,2026Q1
+ORD-1565,2025-12-21,CUST-197,Son Lite,Furniture,37,1468.89,54348.93,Central,Delivered,Mobile App,12,2025,2025Q4
+ORD-1566,2025-04-27,CUST-230,Quickly Pro,Furniture,9,271.82,2446.38,East,Returned,Phone,4,2025,2025Q2
+ORD-1568,2025-07-24,CUST-462,Analysis Max,Food & Beverage,35,1818.97,63663.95,South,Returned,Phone,7,2025,2025Q3
+ORD-1569,2026-03-25,CUST-323,By Lite,Electronics,49,367.57,18010.93,North,Shipped,In-Store,3,2026,2026Q1
+ORD-1570,2024-12-13,CUST-100,Wall Lite,Clothing,35,482.71,16894.85,Central,Pending,In-Store,12,2024,2024Q4
+ORD-1571,2026-03-18,CUST-366,Understand Basic,Clothing,48,1943.08,93267.84,East,Delivered,In-Store,3,2026,2026Q1
+ORD-1572,2026-03-26,CUST-375,Director Lite,Furniture,36,370.14,13325.04,North,Returned,Phone,3,2026,2026Q1
+ORD-1573,2024-09-24,CUST-451,Brother Pro,Food & Beverage,18,1710.23,30784.14,North,Pending,Phone,9,2024,2024Q3
+ORD-1574,2024-06-22,CUST-468,Machine Lite,Furniture,49,989.63,48491.87,West,Returned,Online,6,2024,2024Q2
+ORD-1575,2025-11-12,CUST-479,Whole Plus,Furniture,39,501.99,19577.61,South,Returned,Mobile App,11,2025,2025Q4
+ORD-1576,2026-03-27,CUST-477,Research Plus,Food & Beverage,32,1742.79,55769.28,North,Pending,In-Store,3,2026,2026Q1
+ORD-1577,2025-01-23,CUST-443,Magazine Basic,Sports,24,896.16,21507.84,East,Cancelled,Phone,1,2025,2025Q1
+ORD-1578,2026-03-29,CUST-200,Discover Basic,Electronics,23,1034.49,23793.27,Central,Cancelled,Phone,3,2026,2026Q1
+ORD-1579,2025-01-18,CUST-286,Tough Plus,Clothing,32,724.87,23195.84,Central,Returned,Mobile App,1,2025,2025Q1
+ORD-1580,2026-02-25,CUST-320,Still Basic,Food & Beverage,37,1189.97,44028.89,Central,Cancelled,In-Store,2,2026,2026Q1
+ORD-1581,2026-05-19,CUST-135,Beautiful Basic,Clothing,12,335.41,4024.92,West,Shipped,In-Store,5,2026,2026Q2
+ORD-1583,2024-08-02,CUST-269,Read Max,Food & Beverage,13,1939.13,25208.69,North,Cancelled,Phone,8,2024,2024Q3
+ORD-1585,2025-05-27,CUST-260,Theory Plus,Furniture,25,1316.91,32922.75,West,Returned,Phone,5,2025,2025Q2
+ORD-1586,2024-09-06,CUST-439,With Pro,Electronics,35,657.13,22999.55,West,Delivered,Mobile App,9,2024,2024Q3
+ORD-1587,2025-09-05,CUST-163,Available Plus,Sports,41,1549.21,63517.61,South,Cancelled,Online,9,2025,2025Q3
+ORD-1588,2025-05-19,CUST-468,Commercial Plus,Clothing,30,270.44,8113.2,East,Delivered,Phone,5,2025,2025Q2
+ORD-1591,2026-01-09,CUST-258,Recent Basic,Sports,20,479.74,9594.8,West,Cancelled,Phone,1,2026,2026Q1
+ORD-1592,2024-08-02,CUST-441,Thing Pro,Food & Beverage,48,156.26,7500.48,Unknown,Shipped,Online,8,2024,2024Q3
+ORD-1593,2025-10-18,CUST-309,Line Max,Clothing,25,1037.7849999999999,25944.62,Central,Shipped,Online,10,2025,2025Q4
+ORD-1594,2025-12-03,CUST-267,Any Basic,Sports,22,1044.35,22975.7,West,Pending,Phone,12,2025,2025Q4
+ORD-1595,2025-08-15,CUST-306,You Pro,Sports,13,680.64,8848.32,North,Cancelled,Mobile App,8,2025,2025Q3
+ORD-1596,2024-08-12,CUST-456,Control Max,Electronics,19,1659.48,31530.12,Central,Pending,Phone,8,2024,2024Q3
+ORD-1598,2025-02-27,CUST-383,Enough Plus,Clothing,36,504.94,18177.84,South,Returned,Online,2,2025,2025Q1
+ORD-1599,2024-06-03,CUST-165,Head Pro,Clothing,12,1238.12,14857.44,North,Delivered,In-Store,6,2024,2024Q2
+ORD-1600,2024-06-25,CUST-198,Speech Pro,Electronics,41,1416.49,58076.09,North,Pending,In-Store,6,2024,2024Q2
+ORD-1601,2024-10-12,CUST-315,Could Max,Clothing,19,342.41,6505.79,East,Shipped,Online,10,2024,2024Q4
+ORD-1602,2026-01-23,CUST-440,Stay Max,Electronics,12,343.56,4122.72,South,Pending,In-Store,1,2026,2026Q1
+ORD-1603,2025-01-03,CUST-294,Economy Pro,Food & Beverage,9,82.98,746.82,West,Delivered,In-Store,1,2025,2025Q1
+ORD-1604,2024-07-06,CUST-446,Region Pro,Electronics,7,1475.44,10328.08,South,Cancelled,Phone,7,2024,2024Q3
+ORD-1605,2024-10-08,CUST-483,Produce Basic,Furniture,28,1037.7849999999999,29057.98,West,Pending,Mobile App,10,2024,2024Q4
+ORD-1606,2024-07-06,CUST-189,Foreign Basic,Clothing,14,954.52,13363.28,East,Delivered,Phone,7,2024,2024Q3
+ORD-1607,2026-05-13,CUST-415,Message Basic,Furniture,31,1689.9,52386.9,East,Returned,Phone,5,2026,2026Q2
+ORD-1608,2025-11-01,CUST-391,Benefit Plus,Furniture,19,1613.28,30652.32,North,Shipped,In-Store,11,2025,2025Q4
+ORD-1609,2025-03-27,CUST-254,Management Plus,Food & Beverage,47,1174.86,55218.42,North,Cancelled,In-Store,3,2025,2025Q1
+ORD-1610,2025-01-05,CUST-307,Return Basic,Sports,16,1737.86,27805.76,North,Pending,Mobile App,1,2025,2025Q1
+ORD-1611,2026-01-11,CUST-380,Quickly Basic,Food & Beverage,5,419.62,2098.1,East,Pending,Mobile App,1,2026,2026Q1
+ORD-1612,2025-07-21,CUST-100,Mother Pro,Electronics,35,232.72,8145.2,West,Shipped,Mobile App,7,2025,2025Q3
+ORD-1613,2026-03-29,CUST-255,Government Plus,Electronics,12,546.8,6561.6,East,Returned,Phone,3,2026,2026Q1
+ORD-1615,2026-01-31,CUST-207,While Lite,Furniture,21,1067.03,22407.63,North,Shipped,Online,1,2026,2026Q1
+ORD-1616,2026-04-13,CUST-320,Spring Max,Food & Beverage,36,1873.85,67458.6,South,Shipped,Online,4,2026,2026Q2
+ORD-1617,2024-11-09,CUST-396,Vote Basic,Sports,23,1037.7849999999999,23869.05,North,Cancelled,Phone,11,2024,2024Q4
+ORD-1618,2026-01-15,CUST-410,Imagine Plus,Food & Beverage,16,253.0,4048.0,Unknown,Shipped,In-Store,1,2026,2026Q1
+ORD-1619,2025-03-24,CUST-435,Explain Basic,Clothing,39,909.88,35485.32,West,Shipped,Mobile App,3,2025,2025Q1
+ORD-1620,2025-06-14,CUST-264,Me Lite,Food & Beverage,45,1868.41,84078.45,West,Shipped,Online,6,2025,2025Q2
+ORD-1621,2024-07-29,CUST-338,Especially Pro,Sports,42,639.15,26844.3,Central,Pending,Mobile App,7,2024,2024Q3
+ORD-1623,2024-10-26,CUST-326,Increase Pro,Furniture,14,92.73,1298.22,Central,Shipped,Online,10,2024,2024Q4
+ORD-1624,2026-03-23,CUST-445,Hour Max,Furniture,31,305.2,9461.2,West,Shipped,Mobile App,3,2026,2026Q1
+ORD-1625,2024-12-04,CUST-209,Officer Pro,Clothing,5,1973.39,9866.95,North,Shipped,Online,12,2024,2024Q4
+ORD-1626,2024-11-25,CUST-361,Open Basic,Furniture,35,1930.59,67570.65,North,Returned,Mobile App,11,2024,2024Q4
+ORD-1628,2024-11-18,CUST-476,Create Pro,Furniture,29,1904.11,55219.19,East,Shipped,In-Store,11,2024,2024Q4
+ORD-1629,2026-02-08,CUST-186,Easy Lite,Electronics,43,1281.85,55119.55,Central,Delivered,Phone,2,2026,2026Q1
+ORD-1630,2025-07-28,CUST-437,Themselves Plus,Food & Beverage,11,1037.7849999999999,11415.63,North,Shipped,Phone,7,2025,2025Q3
+ORD-1631,2026-05-29,CUST-143,Down Plus,Electronics,18,914.93,16468.74,Central,Delivered,Mobile App,5,2026,2026Q2
+ORD-1632,2024-09-19,CUST-245,Charge Basic,Clothing,47,1036.04,48693.88,Central,Cancelled,Phone,9,2024,2024Q3
+ORD-1633,2024-09-05,CUST-363,Decision Basic,Sports,12,982.8,11793.6,East,Returned,Phone,9,2024,2024Q3
+ORD-1634,2025-05-07,CUST-439,Deep Basic,Clothing,9,1337.06,12033.54,West,Delivered,Phone,5,2025,2025Q2
+ORD-1635,2024-08-12,CUST-424,Eye Lite,Clothing,10,287.91,2879.1,North,Returned,Phone,8,2024,2024Q3
+ORD-1636,2024-07-18,CUST-417,Stuff Max,Clothing,44,69.65,3064.6,East,Delivered,In-Store,7,2024,2024Q3
+ORD-1637,2025-02-21,CUST-271,Congress Max,Clothing,17,622.78,10587.26,West,Cancelled,In-Store,2,2025,2025Q1
+ORD-1638,2024-06-25,CUST-147,Wish Max,Furniture,38,1412.31,53667.78,West,Pending,Phone,6,2024,2024Q2
+ORD-1639,2025-12-30,CUST-484,Wear Plus,Food & Beverage,7,411.69,2881.83,North,Returned,In-Store,12,2025,2025Q4
+ORD-1640,2024-09-19,CUST-220,Green Plus,Sports,46,1350.13,62105.98,Central,Pending,In-Store,9,2024,2024Q3
+ORD-1641,2025-05-24,CUST-444,Entire Max,Electronics,13,1940.12,25221.56,South,Cancelled,Phone,5,2025,2025Q2
+ORD-1642,2025-05-24,CUST-258,Rather Basic,Electronics,40,196.86,7874.4,Central,Returned,Mobile App,5,2025,2025Q2
+ORD-1643,2024-08-16,CUST-215,Find Pro,Food & Beverage,42,1348.48,56636.16,Central,Pending,Phone,8,2024,2024Q3
+ORD-1644,2025-10-08,CUST-201,Relate Max,Clothing,9,893.06,8037.54,South,Cancelled,In-Store,10,2025,2025Q4
+ORD-1645,2025-02-16,CUST-175,Teacher Pro,Clothing,27,1737.6,46915.2,West,Shipped,Mobile App,2,2025,2025Q1
+ORD-1646,2024-08-28,CUST-112,From Max,Sports,2,362.53,725.06,South,Returned,In-Store,8,2024,2024Q3
+ORD-1647,2024-09-16,CUST-123,Treatment Pro,Electronics,5,1388.33,6941.65,South,Pending,In-Store,9,2024,2024Q3
+ORD-1650,2025-04-18,CUST-412,Water Max,Sports,38,1369.66,52047.08,East,Pending,Online,4,2025,2025Q2
+ORD-1651,2026-01-03,CUST-493,Low Max,Furniture,19,999.38,18988.22,West,Shipped,In-Store,1,2026,2026Q1
+ORD-1652,2025-07-09,CUST-137,Idea Basic,Furniture,8,1239.52,9916.16,South,Delivered,Phone,7,2025,2025Q3
+ORD-1653,2025-10-24,CUST-333,Federal Lite,Food & Beverage,48,1739.12,83477.76,North,Returned,Phone,10,2025,2025Q4
+ORD-1654,2026-03-21,CUST-312,Wear Max,Food & Beverage,45,1145.51,51547.95,South,Cancelled,In-Store,3,2026,2026Q1
+ORD-1655,2025-10-16,CUST-422,Case Pro,Furniture,1,1037.7849999999999,1037.78,West,Cancelled,Online,10,2025,2025Q4
+ORD-1656,2025-03-03,CUST-394,Against Basic,Food & Beverage,22,1862.59,40976.98,East,Returned,In-Store,3,2025,2025Q1
+ORD-1657,2026-01-31,CUST-199,Group Lite,Furniture,17,1382.16,23496.72,West,Delivered,Phone,1,2026,2026Q1
+ORD-1658,2026-04-29,CUST-467,Hundred Max,Clothing,7,1356.26,9493.82,East,Returned,Phone,4,2026,2026Q2
+ORD-1659,2026-01-30,CUST-456,City Max,Food & Beverage,25,439.19,10979.75,West,Pending,Phone,1,2026,2026Q1
+ORD-1660,2024-11-11,CUST-296,Statement Plus,Furniture,45,1321.18,59453.1,North,Cancelled,In-Store,11,2024,2024Q4
+ORD-1661,2025-02-26,CUST-353,Little Lite,Sports,4,793.79,3175.16,East,Shipped,Phone,2,2025,2025Q1
+ORD-1662,2025-06-29,CUST-304,Fight Basic,Sports,36,1305.95,47014.2,East,Cancelled,Phone,6,2025,2025Q2
+ORD-1663,2026-01-08,CUST-224,Never Pro,Food & Beverage,6,222.12,1332.72,South,Delivered,Phone,1,2026,2026Q1
+ORD-1664,2025-06-09,CUST-175,By Max,Sports,31,1319.11,40892.41,West,Returned,Phone,6,2025,2025Q2
+ORD-1665,2025-04-20,CUST-435,Moment Basic,Electronics,19,1998.83,37977.77,Central,Cancelled,Mobile App,4,2025,2025Q2
+ORD-1666,2025-08-05,CUST-452,Effort Plus,Electronics,44,105.94,4661.36,Central,Pending,In-Store,8,2025,2025Q3
+ORD-1667,2024-12-23,CUST-102,Nation Max,Sports,39,1954.58,76228.62,South,Delivered,In-Store,12,2024,2024Q4
+ORD-1669,2024-11-20,CUST-494,Deep Basic,Sports,10,1742.8,17428.0,North,Shipped,Online,11,2024,2024Q4
+ORD-1670,2024-07-10,CUST-154,Teacher Pro,Sports,26,1566.95,40740.7,South,Cancelled,Phone,7,2024,2024Q3
+ORD-1671,2026-03-23,CUST-498,That Plus,Sports,19,1138.36,21628.84,East,Returned,In-Store,3,2026,2026Q1
+ORD-1672,2025-08-28,CUST-317,Tend Basic,Furniture,39,1479.51,57700.89,North,Delivered,Mobile App,8,2025,2025Q3
+ORD-1673,2025-08-16,CUST-212,Develop Max,Furniture,3,1758.25,5274.75,West,Pending,Phone,8,2025,2025Q3
+ORD-1674,2025-07-18,CUST-190,Bad Pro,Electronics,45,814.24,36640.8,East,Pending,Mobile App,7,2025,2025Q3
+ORD-1675,2025-11-16,CUST-456,His Max,Food & Beverage,13,660.8,8590.4,Central,Returned,Online,11,2025,2025Q4
+ORD-1676,2025-08-22,CUST-365,Mrs Max,Electronics,28,1338.51,37478.28,West,Pending,Online,8,2025,2025Q3
+ORD-1677,2025-07-15,CUST-337,Down Lite,Furniture,20,1617.61,32352.2,East,Shipped,Phone,7,2025,2025Q3
+ORD-1678,2026-03-07,CUST-125,Yeah Lite,Furniture,28,1037.7849999999999,29057.98,West,Returned,Mobile App,3,2026,2026Q1
+ORD-1679,2025-11-13,CUST-385,Oil Max,Furniture,8,1597.65,12781.2,East,Pending,Online,11,2025,2025Q4
+ORD-1680,2025-09-09,CUST-227,Second Plus,Furniture,41,876.81,35949.21,West,Shipped,Phone,9,2025,2025Q3
+ORD-1681,2025-07-07,CUST-162,Relate Lite,Furniture,39,1637.49,63862.11,Central,Pending,Online,7,2025,2025Q3
+ORD-1682,2025-01-21,CUST-333,Time Lite,Furniture,1,249.22,249.22,South,Cancelled,In-Store,1,2025,2025Q1
+ORD-1683,2026-04-17,CUST-168,Candidate Lite,Clothing,3,1093.53,3280.59,East,Returned,Mobile App,4,2026,2026Q2
+ORD-1684,2026-05-28,CUST-337,Occur Lite,Clothing,13,21.46,278.98,East,Pending,Phone,5,2026,2026Q2
+ORD-1685,2024-10-08,CUST-441,Certainly Pro,Sports,28,655.93,18366.04,Central,Pending,Online,10,2024,2024Q4
+ORD-1686,2024-06-22,CUST-371,Human Max,Clothing,49,739.26,36223.74,South,Shipped,Online,6,2024,2024Q2
+ORD-1688,2025-12-08,CUST-404,Feel Basic,Sports,33,1393.98,46001.34,East,Cancelled,Phone,12,2025,2025Q4
+ORD-1689,2025-05-03,CUST-262,Always Basic,Food & Beverage,38,783.23,29762.74,South,Shipped,Online,5,2025,2025Q2
+ORD-1690,2026-03-08,CUST-486,Skill Basic,Furniture,6,902.9,5417.4,West,Cancelled,Mobile App,3,2026,2026Q1
+ORD-1691,2026-01-21,CUST-326,Entire Pro,Clothing,44,482.71,21239.24,East,Pending,Online,1,2026,2026Q1
+ORD-1692,2024-11-18,CUST-413,Cell Max,Electronics,45,752.77,33874.65,East,Pending,Mobile App,11,2024,2024Q4
+ORD-1693,2025-06-21,CUST-468,Scene Basic,Food & Beverage,32,1037.7849999999999,33209.12,West,Cancelled,Online,6,2025,2025Q2
+ORD-1694,2025-04-16,CUST-358,Ready Lite,Furniture,45,155.66,7004.7,Central,Pending,Phone,4,2025,2025Q2
+ORD-1695,2024-10-14,CUST-318,Effort Basic,Furniture,47,1210.86,56910.42,South,Cancelled,Phone,10,2024,2024Q4
+ORD-1696,2025-08-25,CUST-380,Heavy Plus,Food & Beverage,21,1339.74,28134.54,East,Shipped,Phone,8,2025,2025Q3
+ORD-1697,2026-03-16,CUST-328,Only Lite,Food & Beverage,16,1242.79,19884.64,West,Returned,Mobile App,3,2026,2026Q1
+ORD-1698,2024-12-11,CUST-181,Firm Lite,Food & Beverage,21,932.35,19579.35,East,Shipped,Phone,12,2024,2024Q4
+ORD-1699,2026-01-31,CUST-480,Suffer Lite,Electronics,11,765.77,8423.47,West,Returned,Mobile App,1,2026,2026Q1
+ORD-1700,2025-01-14,CUST-343,Goal Basic,Sports,37,1728.03,63937.11,East,Shipped,Mobile App,1,2025,2025Q1
+ORD-1701,2025-10-10,CUST-330,Arm Lite,Sports,36,1042.97,37546.92,North,Delivered,Mobile App,10,2025,2025Q4
+ORD-1703,2024-07-06,CUST-484,Life Pro,Furniture,19,61.03,1159.57,South,Shipped,Online,7,2024,2024Q3
+ORD-1705,2026-01-21,CUST-426,Them Max,Sports,18,766.59,13798.62,Central,Cancelled,Mobile App,1,2026,2026Q1
+ORD-1706,2025-04-02,CUST-241,Citizen Lite,Food & Beverage,47,803.66,37772.02,South,Delivered,Online,4,2025,2025Q2
+ORD-1707,2026-02-21,CUST-492,Ground Plus,Furniture,41,1164.54,47746.14,Central,Shipped,Phone,2,2026,2026Q1
+ORD-1708,2026-02-05,CUST-498,Writer Basic,Sports,49,1071.87,52521.63,North,Shipped,In-Store,2,2026,2026Q1
+ORD-1709,2024-07-25,CUST-366,Must Max,Furniture,14,1219.73,17076.22,West,Shipped,Online,7,2024,2024Q3
+ORD-1710,2025-09-08,CUST-348,Necessary Plus,Clothing,15,1532.12,22981.8,South,Cancelled,Mobile App,9,2025,2025Q3
+ORD-1711,2024-09-14,CUST-420,Little Lite,Sports,31,1627.84,50463.04,West,Delivered,Online,9,2024,2024Q3
+ORD-1712,2026-03-21,CUST-222,Range Basic,Clothing,1,1439.06,1439.06,East,Shipped,Mobile App,3,2026,2026Q1
+ORD-1713,2024-12-26,CUST-240,Ask Lite,Furniture,3,1911.49,5734.47,North,Cancelled,Phone,12,2024,2024Q4
+ORD-1714,2026-01-31,CUST-325,Condition Max,Electronics,16,46.28,740.48,West,Cancelled,Online,1,2026,2026Q1
+ORD-1715,2025-07-26,CUST-139,Bad Plus,Food & Beverage,23,399.6,9190.8,West,Shipped,In-Store,7,2025,2025Q3
+ORD-1716,2024-10-07,CUST-465,Born Lite,Clothing,11,25.05,275.55,South,Returned,Online,10,2024,2024Q4
+ORD-1717,2025-04-30,CUST-246,Job Max,Furniture,12,1298.47,15581.64,East,Returned,Mobile App,4,2025,2025Q2
+ORD-1718,2025-01-25,CUST-220,Grow Basic,Sports,10,1797.08,17970.8,South,Pending,Mobile App,1,2025,2025Q1
+ORD-1719,2024-12-29,CUST-239,Break Plus,Clothing,32,494.53,15824.96,East,Delivered,In-Store,12,2024,2024Q4
+ORD-1720,2024-10-13,CUST-271,Policy Plus,Furniture,16,1854.8,29676.8,South,Pending,Mobile App,10,2024,2024Q4
+ORD-1721,2024-09-23,CUST-263,Fear Max,Electronics,8,129.93,1039.44,West,Pending,Mobile App,9,2024,2024Q3
+ORD-1722,2026-02-15,CUST-376,Language Plus,Clothing,38,1869.53,71042.14,West,Returned,Mobile App,2,2026,2026Q1
+ORD-1724,2026-05-27,CUST-170,Once Basic,Clothing,24,211.83,5083.92,West,Delivered,Online,5,2026,2026Q2
+ORD-1725,2024-10-09,CUST-177,Require Plus,Furniture,28,976.88,27352.64,Central,Cancelled,In-Store,10,2024,2024Q4
+ORD-1726,2026-02-12,CUST-218,Prevent Lite,Food & Beverage,8,520.99,4167.92,West,Delivered,In-Store,2,2026,2026Q1
+ORD-1727,2026-02-22,CUST-296,Special Lite,Furniture,28,576.9,16153.2,Central,Shipped,Phone,2,2026,2026Q1
+ORD-1728,2025-02-24,CUST-455,Which Basic,Furniture,36,621.51,22374.36,West,Delivered,Mobile App,2,2025,2025Q1
+ORD-1729,2025-11-10,CUST-178,Game Lite,Furniture,26,1608.02,41808.52,Central,Shipped,In-Store,11,2025,2025Q4
+ORD-1730,2026-02-06,CUST-461,Matter Max,Sports,8,1082.93,8663.44,Central,Pending,Mobile App,2,2026,2026Q1
+ORD-1731,2024-08-04,CUST-209,Four Pro,Furniture,28,1037.7849999999999,29057.98,West,Cancelled,In-Store,8,2024,2024Q3
+ORD-1732,2024-07-22,CUST-132,Trip Plus,Food & Beverage,28,1224.56,34287.68,Central,Delivered,Phone,7,2024,2024Q3
+ORD-1733,2025-02-21,CUST-312,Paper Max,Electronics,37,1435.14,53100.18,North,Cancelled,In-Store,2,2025,2025Q1
+ORD-1734,2024-07-30,CUST-308,Year Basic,Food & Beverage,41,552.52,22653.32,East,Pending,Online,7,2024,2024Q3
+ORD-1735,2025-09-27,CUST-269,Project Pro,Electronics,36,832.96,29986.56,Central,Pending,Mobile App,9,2025,2025Q3
+ORD-1736,2025-11-10,CUST-377,Ask Basic,Sports,27,252.55,6818.85,Central,Pending,Online,11,2025,2025Q4
+ORD-1737,2025-01-09,CUST-338,Player Pro,Sports,17,370.49,6298.33,North,Pending,In-Store,1,2025,2025Q1
+ORD-1738,2025-02-04,CUST-312,Sit Max,Sports,9,1365.42,12288.78,North,Returned,In-Store,2,2025,2025Q1
+ORD-1739,2025-08-31,CUST-131,Yet Pro,Electronics,33,371.06,12244.98,South,Delivered,Phone,8,2025,2025Q3
+ORD-1741,2025-02-23,CUST-315,Worry Max,Clothing,13,1421.0,18473.0,South,Pending,Phone,2,2025,2025Q1
+ORD-1742,2025-08-16,CUST-299,Organization Plus,Sports,28,222.69,6235.32,Central,Delivered,In-Store,8,2025,2025Q3
+ORD-1743,2024-06-17,CUST-494,Style Basic,Electronics,48,1138.95,54669.6,North,Cancelled,Phone,6,2024,2024Q2
+ORD-1744,2025-08-15,CUST-399,Fast Lite,Food & Beverage,29,520.56,15096.24,Central,Delivered,In-Store,8,2025,2025Q3
+ORD-1745,2025-11-01,CUST-456,Around Plus,Sports,13,1926.22,25040.86,West,Pending,In-Store,11,2025,2025Q4
+ORD-1746,2026-05-22,CUST-110,Article Pro,Furniture,46,972.26,44723.96,East,Returned,Mobile App,5,2026,2026Q2
+ORD-1747,2025-03-11,CUST-491,Able Lite,Food & Beverage,35,1613.93,56487.55,West,Shipped,Online,3,2025,2025Q1
+ORD-1748,2026-04-06,CUST-394,Run Plus,Electronics,6,1104.95,6629.7,North,Returned,Mobile App,4,2026,2026Q2
+ORD-1749,2026-04-03,CUST-294,Write Max,Clothing,18,96.39,1735.02,North,Returned,Online,4,2026,2026Q2
+ORD-1750,2026-04-03,CUST-344,Yard Pro,Clothing,5,1269.97,6349.85,North,Returned,Online,4,2026,2026Q2
+ORD-1751,2025-03-03,CUST-103,Officer Plus,Clothing,47,1903.29,89454.63,East,Shipped,In-Store,3,2025,2025Q1
+ORD-1752,2025-12-03,CUST-280,Water Pro,Furniture,25,1207.21,30180.25,South,Pending,Phone,12,2025,2025Q4
+ORD-1753,2025-08-11,CUST-252,Well Plus,Food & Beverage,2,1640.19,3280.38,Central,Pending,Phone,8,2025,2025Q3
+ORD-1754,2024-09-07,CUST-485,Resource Basic,Sports,10,1769.57,17695.7,Central,Pending,Phone,9,2024,2024Q3
+ORD-1755,2025-01-10,CUST-299,Whether Max,Food & Beverage,30,463.88,13916.4,Central,Returned,Mobile App,1,2025,2025Q1
+ORD-1756,2024-11-02,CUST-314,Listen Lite,Clothing,45,431.97,19438.65,Central,Cancelled,Phone,11,2024,2024Q4
+ORD-1758,2025-01-13,CUST-482,Arm Pro,Clothing,33,827.95,27322.35,South,Delivered,Phone,1,2025,2025Q1
+ORD-1759,2025-04-21,CUST-476,Cause Max,Electronics,1,1681.32,1681.32,West,Cancelled,Phone,4,2025,2025Q2
+ORD-1760,2024-11-11,CUST-379,Network Lite,Food & Beverage,18,1801.05,32418.9,East,Returned,Phone,11,2024,2024Q4
+ORD-1762,2026-03-25,CUST-212,Nor Max,Clothing,47,481.37,22624.39,West,Cancelled,In-Store,3,2026,2026Q1
+ORD-1764,2025-07-27,CUST-212,Debate Max,Electronics,11,556.86,6125.46,Central,Shipped,Online,7,2025,2025Q3
+ORD-1765,2026-01-09,CUST-239,Defense Lite,Electronics,21,1647.0,34587.0,South,Pending,Mobile App,1,2026,2026Q1
+ORD-1766,2025-05-03,CUST-323,Station Lite,Food & Beverage,26,853.24,22184.24,East,Cancelled,Phone,5,2025,2025Q2
+ORD-1767,2025-08-02,CUST-348,Scene Pro,Furniture,25,1338.42,33460.5,North,Returned,Phone,8,2025,2025Q3
+ORD-1768,2025-02-20,CUST-114,Even Max,Clothing,22,200.12,4402.64,West,Returned,Mobile App,2,2025,2025Q1
+ORD-1769,2024-10-29,CUST-299,Choice Plus,Clothing,27,1251.48,33789.96,North,Cancelled,Online,10,2024,2024Q4
+ORD-1770,2026-01-07,CUST-272,Thing Lite,Sports,49,909.02,44541.98,East,Delivered,Online,1,2026,2026Q1
+ORD-1771,2026-05-17,CUST-442,Memory Plus,Clothing,13,1177.35,15305.55,West,Delivered,Mobile App,5,2026,2026Q2
+ORD-1772,2024-08-03,CUST-447,Smile Plus,Food & Beverage,33,344.35,11363.55,North,Shipped,Phone,8,2024,2024Q3
+ORD-1773,2024-07-23,CUST-307,Against Basic,Electronics,34,1476.38,50196.92,North,Pending,Mobile App,7,2024,2024Q3
+ORD-1774,2025-11-12,CUST-470,Add Pro,Clothing,41,1726.97,70805.77,South,Shipped,Mobile App,11,2025,2025Q4
+ORD-1775,2025-08-15,CUST-184,Actually Pro,Sports,35,441.31,15445.85,East,Pending,Mobile App,8,2025,2025Q3
+ORD-1776,2024-10-16,CUST-339,International Pro,Food & Beverage,1,200.47,200.47,East,Pending,Mobile App,10,2024,2024Q4
+ORD-1777,2026-04-02,CUST-165,Standard Max,Food & Beverage,21,57.04,1197.84,East,Pending,Online,4,2026,2026Q2
+ORD-1778,2024-11-12,CUST-418,Source Lite,Food & Beverage,48,1287.52,61800.96,West,Pending,Mobile App,11,2024,2024Q4
+ORD-1779,2024-12-27,CUST-373,Business Lite,Food & Beverage,6,1218.12,7308.72,South,Returned,Phone,12,2024,2024Q4
+ORD-1780,2025-04-10,CUST-113,Per Basic,Food & Beverage,28,1097.93,30742.04,Central,Cancelled,Phone,4,2025,2025Q2
+ORD-1781,2026-01-09,CUST-301,Strong Basic,Food & Beverage,17,471.57,8016.69,Unknown,Pending,In-Store,1,2026,2026Q1
+ORD-1782,2025-09-02,CUST-403,Property Basic,Electronics,5,787.9,3939.5,East,Cancelled,In-Store,9,2025,2025Q3
+ORD-1783,2026-02-25,CUST-388,Source Plus,Electronics,31,1193.01,36983.31,West,Pending,Mobile App,2,2026,2026Q1
+ORD-1784,2025-02-20,CUST-439,Pick Pro,Sports,5,998.57,4992.85,North,Returned,In-Store,2,2025,2025Q1
+ORD-1785,2026-06-02,CUST-113,Right Max,Clothing,38,1975.69,75076.22,West,Returned,Mobile App,6,2026,2026Q2
+ORD-1786,2025-02-16,CUST-142,Phone Lite,Furniture,3,281.52,844.56,West,Cancelled,Online,2,2025,2025Q1
+ORD-1787,2024-12-10,CUST-429,Issue Max,Electronics,23,1393.34,32046.82,East,Cancelled,Online,12,2024,2024Q4
+ORD-1788,2025-12-19,CUST-319,So Pro,Furniture,37,814.59,30139.83,North,Shipped,Online,12,2025,2025Q4
+ORD-1789,2025-10-13,CUST-169,Those Pro,Sports,37,862.12,31898.44,East,Shipped,Online,10,2025,2025Q4
+ORD-1790,2024-08-29,CUST-336,Trip Lite,Clothing,10,1438.02,14380.2,North,Shipped,Phone,8,2024,2024Q3
+ORD-1791,2024-08-01,CUST-193,Message Plus,Electronics,10,1387.95,13879.5,North,Shipped,Online,8,2024,2024Q3
+ORD-1792,2025-10-28,CUST-125,Manage Basic,Electronics,19,1982.6,37669.4,North,Shipped,Online,10,2025,2025Q4
+ORD-1793,2025-10-11,CUST-233,Film Plus,Clothing,17,265.5,4513.5,East,Pending,Phone,10,2025,2025Q4
+ORD-1794,2026-01-03,CUST-294,Grow Pro,Clothing,21,217.18,4560.78,North,Delivered,Mobile App,1,2026,2026Q1
+ORD-1795,2024-07-21,CUST-267,However Pro,Furniture,14,1451.43,20320.02,South,Shipped,In-Store,7,2024,2024Q3
+ORD-1796,2024-08-12,CUST-208,Everyone Plus,Furniture,9,1160.99,10448.91,South,Shipped,Mobile App,8,2024,2024Q3
+ORD-1797,2024-07-01,CUST-332,Player Basic,Clothing,46,555.58,25556.68,Central,Cancelled,Mobile App,7,2024,2024Q3
+ORD-1798,2026-05-23,CUST-267,City Basic,Electronics,1,168.04,168.04,South,Delivered,In-Store,5,2026,2026Q2
+ORD-1799,2026-03-26,CUST-272,Bad Pro,Food & Beverage,45,180.46,8120.7,Central,Delivered,Online,3,2026,2026Q1
+ORD-1800,2024-09-16,CUST-489,Involve Basic,Sports,13,1789.44,23262.72,South,Delivered,Online,9,2024,2024Q3
+ORD-1801,2026-01-01,CUST-294,Side Basic,Sports,4,391.82,1567.28,East,Cancelled,Online,1,2026,2026Q1
+ORD-1802,2024-12-16,CUST-242,Race Lite,Furniture,1,653.51,653.51,Central,Returned,Online,12,2024,2024Q4
+ORD-1803,2025-08-25,CUST-485,Create Lite,Clothing,49,461.05,22591.45,West,Delivered,In-Store,8,2025,2025Q3
+ORD-1804,2026-03-26,CUST-315,Recognize Max,Electronics,40,716.44,28657.6,West,Delivered,Online,3,2026,2026Q1
+ORD-1805,2025-10-23,CUST-229,Kind Plus,Electronics,32,148.15,4740.8,South,Cancelled,Online,10,2025,2025Q4
+ORD-1806,2025-08-28,CUST-141,Today Pro,Furniture,34,1042.93,35459.62,West,Returned,Online,8,2025,2025Q3
+ORD-1807,2026-04-04,CUST-340,Have Basic,Furniture,28,144.55,4047.4,South,Pending,In-Store,4,2026,2026Q2
+ORD-1808,2025-03-23,CUST-109,Voice Max,Food & Beverage,31,1602.71,49684.01,South,Delivered,Phone,3,2025,2025Q1
+ORD-1809,2024-09-17,CUST-483,And Lite,Sports,8,475.09,3800.72,West,Pending,In-Store,9,2024,2024Q3
+ORD-1810,2026-01-13,CUST-376,New Basic,Sports,39,1084.62,42300.18,West,Returned,Online,1,2026,2026Q1
+ORD-1811,2025-10-12,CUST-126,Success Plus,Sports,26,1761.36,45795.36,North,Shipped,In-Store,10,2025,2025Q4
+ORD-1812,2026-02-04,CUST-279,Adult Lite,Furniture,34,1305.25,44378.5,Central,Delivered,Mobile App,2,2026,2026Q1
+ORD-1813,2025-02-10,CUST-214,Picture Pro,Food & Beverage,3,1070.59,3211.77,South,Cancelled,Mobile App,2,2025,2025Q1
+ORD-1814,2025-06-10,CUST-432,Left Basic,Clothing,12,655.42,7865.04,West,Delivered,Phone,6,2025,2025Q2
+ORD-1815,2025-06-05,CUST-135,Nice Max,Furniture,1,672.67,672.67,Central,Shipped,Online,6,2025,2025Q2
+ORD-1816,2024-08-21,CUST-499,Charge Pro,Food & Beverage,44,1342.28,59060.32,West,Shipped,Phone,8,2024,2024Q3
+ORD-1817,2024-06-14,CUST-433,Tax Basic,Furniture,5,1988.34,9941.7,West,Pending,Mobile App,6,2024,2024Q2
+ORD-1818,2026-03-03,CUST-120,Turn Basic,Clothing,30,1327.06,39811.8,North,Cancelled,Phone,3,2026,2026Q1
+ORD-1819,2024-12-11,CUST-486,Degree Basic,Clothing,30,1119.99,33599.7,South,Shipped,Mobile App,12,2024,2024Q4
+ORD-1820,2026-04-28,CUST-115,Per Basic,Food & Beverage,17,1463.99,24887.83,South,Shipped,Mobile App,4,2026,2026Q2
+ORD-1821,2026-05-16,CUST-226,Walk Basic,Electronics,48,935.76,44916.48,East,Returned,In-Store,5,2026,2026Q2
+ORD-1822,2025-12-02,CUST-202,Trade Pro,Clothing,47,1037.7849999999999,48775.89,North,Shipped,Online,12,2025,2025Q4
+ORD-1823,2025-11-12,CUST-110,Story Plus,Clothing,23,1128.97,25966.31,Central,Delivered,Mobile App,11,2025,2025Q4
+ORD-1824,2025-05-26,CUST-418,Effect Plus,Clothing,15,1915.67,28735.05,North,Delivered,Online,5,2025,2025Q2
+ORD-1825,2025-08-13,CUST-178,Successful Pro,Clothing,37,358.85,13277.45,Central,Pending,Phone,8,2025,2025Q3
+ORD-1826,2025-03-26,CUST-222,Tonight Plus,Electronics,21,1383.11,29045.31,South,Pending,Phone,3,2025,2025Q1
+ORD-1827,2024-09-26,CUST-164,Hear Max,Sports,14,409.86,5738.04,East,Cancelled,Mobile App,9,2024,2024Q3
+ORD-1828,2025-07-15,CUST-342,Cold Max,Sports,2,1037.7849999999999,2075.57,East,Cancelled,Online,7,2025,2025Q3
+ORD-1829,2025-08-09,CUST-442,Alone Pro,Clothing,11,202.39,2226.29,South,Returned,Mobile App,8,2025,2025Q3
+ORD-1830,2024-12-14,CUST-158,Instead Max,Electronics,39,906.24,35343.36,West,Pending,Mobile App,12,2024,2024Q4
+ORD-1831,2025-09-26,CUST-388,Thus Pro,Furniture,38,1514.77,57561.26,North,Returned,In-Store,9,2025,2025Q3
+ORD-1832,2026-03-22,CUST-211,Along Max,Electronics,34,701.67,23856.78,East,Cancelled,Phone,3,2026,2026Q1
+ORD-1833,2025-11-28,CUST-338,Technology Lite,Food & Beverage,38,1333.17,50660.46,West,Shipped,Online,11,2025,2025Q4
+ORD-1834,2025-05-29,CUST-458,Time Pro,Furniture,34,1592.95,54160.3,Central,Returned,Phone,5,2025,2025Q2
+ORD-1835,2025-02-16,CUST-231,Office Basic,Sports,18,1855.08,33391.44,East,Shipped,In-Store,2,2025,2025Q1
+ORD-1836,2026-04-15,CUST-492,Party Max,Sports,30,476.94,14308.2,Central,Returned,Phone,4,2026,2026Q2
+ORD-1837,2025-05-31,CUST-288,Several Lite,Electronics,15,804.64,12069.6,West,Returned,In-Store,5,2025,2025Q2
+ORD-1838,2025-08-05,CUST-185,Unit Pro,Sports,27,313.31,8459.37,Central,Cancelled,Phone,8,2025,2025Q3
+ORD-1839,2025-03-29,CUST-410,Step Max,Electronics,34,1985.04,67491.36,West,Returned,Online,3,2025,2025Q1
+ORD-1840,2024-12-29,CUST-410,When Basic,Electronics,38,1854.73,70479.74,Central,Cancelled,In-Store,12,2024,2024Q4
+ORD-1841,2024-08-31,CUST-482,View Max,Electronics,33,1084.51,35788.83,North,Returned,Phone,8,2024,2024Q3
+ORD-1842,2024-11-05,CUST-467,Both Lite,Electronics,24,1685.65,40455.6,East,Returned,In-Store,11,2024,2024Q4
+ORD-1844,2025-03-19,CUST-498,Word Plus,Food & Beverage,30,1250.94,37528.2,West,Pending,Phone,3,2025,2025Q1
+ORD-1845,2024-08-31,CUST-183,Before Lite,Food & Beverage,42,187.36,7869.12,Central,Cancelled,Mobile App,8,2024,2024Q3
+ORD-1846,2024-07-05,CUST-259,Tell Lite,Food & Beverage,17,1512.99,25720.83,South,Returned,Online,7,2024,2024Q3
+ORD-1847,2024-09-17,CUST-155,Nearly Pro,Electronics,5,264.15,1320.75,East,Shipped,Online,9,2024,2024Q3
+ORD-1848,2024-07-01,CUST-396,City Plus,Sports,29,1653.87,47962.23,Unknown,Delivered,Online,7,2024,2024Q3
+ORD-1849,2025-11-01,CUST-113,Republican Pro,Furniture,4,1566.24,6264.96,Central,Cancelled,Online,11,2025,2025Q4
+ORD-1850,2025-08-15,CUST-259,Success Max,Food & Beverage,10,1420.4,14204.0,North,Pending,Mobile App,8,2025,2025Q3
+ORD-1851,2024-06-29,CUST-394,Avoid Lite,Clothing,17,81.96,1393.32,South,Pending,Phone,6,2024,2024Q2
+ORD-1852,2025-03-18,CUST-446,Sometimes Pro,Clothing,10,613.23,6132.3,East,Cancelled,Online,3,2025,2025Q1
+ORD-1853,2025-04-25,CUST-292,Each Lite,Electronics,17,533.59,9071.03,North,Pending,Phone,4,2025,2025Q2
+ORD-1855,2025-05-20,CUST-466,Happen Max,Food & Beverage,24,184.41,4425.84,East,Pending,Online,5,2025,2025Q2
+ORD-1856,2026-05-23,CUST-201,Sure Max,Electronics,5,1874.55,9372.75,North,Delivered,Online,5,2026,2026Q2
+ORD-1857,2024-07-17,CUST-138,Less Basic,Sports,34,1112.07,37810.38,South,Delivered,Phone,7,2024,2024Q3
+ORD-1858,2025-06-15,CUST-403,Better Plus,Furniture,6,617.99,3707.94,East,Returned,Mobile App,6,2025,2025Q2
+ORD-1859,2024-11-06,CUST-453,Art Basic,Sports,2,799.99,1599.98,South,Shipped,In-Store,11,2024,2024Q4
+ORD-1861,2025-04-07,CUST-224,Security Max,Clothing,43,1205.18,51822.74,West,Pending,Phone,4,2025,2025Q2
+ORD-1862,2025-01-14,CUST-152,Rest Pro,Food & Beverage,43,1036.2,44556.6,West,Cancelled,Online,1,2025,2025Q1
+ORD-1863,2024-10-10,CUST-456,Air Lite,Electronics,48,1839.59,88300.32,Central,Returned,Phone,10,2024,2024Q4
+ORD-1864,2025-05-16,CUST-495,Market Max,Sports,11,998.96,10988.56,South,Delivered,Phone,5,2025,2025Q2
+ORD-1865,2024-07-08,CUST-254,Billion Max,Sports,47,1984.39,93266.33,Central,Cancelled,Phone,7,2024,2024Q3
+ORD-1866,2025-09-21,CUST-450,Practice Pro,Electronics,23,1704.34,39199.82,West,Cancelled,Phone,9,2025,2025Q3
+ORD-1867,2024-06-20,CUST-407,Because Max,Furniture,16,424.94,6799.04,West,Pending,Online,6,2024,2024Q2
+ORD-1868,2025-09-01,CUST-161,Sort Max,Electronics,31,1861.88,57718.28,South,Delivered,In-Store,9,2025,2025Q3
+ORD-1869,2024-06-06,CUST-389,Stay Pro,Electronics,11,241.57,2657.27,West,Cancelled,Online,6,2024,2024Q2
+ORD-1870,2026-02-15,CUST-500,Business Max,Food & Beverage,16,1636.72,26187.52,Central,Pending,Phone,2,2026,2026Q1
+ORD-1871,2024-10-10,CUST-121,Tell Plus,Clothing,8,767.44,6139.52,South,Returned,Phone,10,2024,2024Q4
+ORD-1872,2026-05-18,CUST-277,None Plus,Sports,4,1757.17,7028.68,Central,Shipped,Online,5,2026,2026Q2
+ORD-1873,2025-06-27,CUST-372,Room Plus,Clothing,40,1737.43,69497.2,South,Delivered,Mobile App,6,2025,2025Q2
+ORD-1874,2025-12-31,CUST-319,Support Plus,Furniture,4,1613.79,6455.16,West,Returned,Mobile App,12,2025,2025Q4
+ORD-1875,2024-07-10,CUST-438,Minute Max,Sports,25,1582.16,39554.0,East,Shipped,Mobile App,7,2024,2024Q3
+ORD-1876,2025-08-29,CUST-289,Hand Lite,Clothing,3,616.31,1848.93,South,Shipped,Phone,8,2025,2025Q3
+ORD-1877,2025-12-10,CUST-135,Example Plus,Furniture,32,171.03,5472.96,South,Cancelled,Online,12,2025,2025Q4
+ORD-1878,2024-07-02,CUST-359,Cost Plus,Food & Beverage,3,811.93,2435.79,East,Returned,Online,7,2024,2024Q3
+ORD-1879,2025-07-24,CUST-431,Effort Max,Furniture,27,355.31,9593.37,West,Cancelled,Mobile App,7,2025,2025Q3
+ORD-1880,2024-10-06,CUST-274,Him Basic,Clothing,29,1392.95,40395.55,Central,Cancelled,Mobile App,10,2024,2024Q4
+ORD-1881,2024-08-04,CUST-106,Soldier Max,Electronics,32,698.74,22359.68,North,Shipped,Online,8,2024,2024Q3
+ORD-1882,2024-08-22,CUST-315,Congress Pro,Sports,19,1951.46,37077.74,East,Shipped,Phone,8,2024,2024Q3
+ORD-1883,2024-06-04,CUST-350,Conference Plus,Food & Beverage,21,1285.53,26996.13,North,Cancelled,Mobile App,6,2024,2024Q2
+ORD-1884,2026-03-03,CUST-154,Single Pro,Clothing,5,1646.74,8233.7,West,Cancelled,In-Store,3,2026,2026Q1
+ORD-1885,2024-12-16,CUST-321,Add Plus,Food & Beverage,18,273.72,4926.96,South,Shipped,In-Store,12,2024,2024Q4
+ORD-1886,2025-01-29,CUST-285,Prepare Basic,Furniture,28,1725.41,48311.48,South,Pending,Online,1,2025,2025Q1
+ORD-1887,2026-05-03,CUST-425,Section Lite,Clothing,42,1846.29,77544.18,West,Delivered,Phone,5,2026,2026Q2
+ORD-1888,2025-08-08,CUST-335,Environmental Basic,Electronics,22,979.25,21543.5,Central,Cancelled,In-Store,8,2025,2025Q3
+ORD-1889,2025-02-12,CUST-462,Lose Max,Electronics,21,1216.44,25545.24,Central,Shipped,Mobile App,2,2025,2025Q1
+ORD-1890,2025-06-27,CUST-178,Ready Max,Electronics,6,1531.97,9191.82,West,Returned,Phone,6,2025,2025Q2
+ORD-1891,2024-08-03,CUST-322,Method Pro,Electronics,1,357.93,357.93,West,Returned,Online,8,2024,2024Q3
+ORD-1892,2025-03-19,CUST-190,Read Pro,Sports,5,1010.11,5050.55,West,Pending,Mobile App,3,2025,2025Q1
+ORD-1894,2026-03-28,CUST-367,Data Max,Clothing,12,301.28,3615.36,West,Returned,Online,3,2026,2026Q1
+ORD-1895,2025-10-15,CUST-433,Reach Max,Electronics,26,741.39,19276.14,West,Pending,Phone,10,2025,2025Q4
+ORD-1896,2025-12-08,CUST-238,They Plus,Sports,46,145.66,6700.36,South,Cancelled,In-Store,12,2025,2025Q4
+ORD-1897,2025-08-21,CUST-415,Agree Basic,Electronics,34,61.37,2086.58,North,Shipped,In-Store,8,2025,2025Q3
+ORD-1898,2025-07-25,CUST-375,Movie Plus,Electronics,49,278.98,13670.02,Central,Delivered,Online,7,2025,2025Q3
+ORD-1899,2026-03-13,CUST-496,One Lite,Furniture,14,1926.6,26972.4,North,Shipped,In-Store,3,2026,2026Q1
+ORD-1900,2025-05-18,CUST-347,Science Plus,Clothing,26,1103.56,28692.56,South,Shipped,Online,5,2025,2025Q2
+ORD-1901,2024-12-05,CUST-338,Bar Max,Food & Beverage,45,1931.99,86939.55,East,Pending,In-Store,12,2024,2024Q4
+ORD-1903,2024-09-01,CUST-474,Common Pro,Furniture,9,630.51,5674.59,East,Cancelled,Phone,9,2024,2024Q3
+ORD-1904,2025-02-03,CUST-403,Support Max,Food & Beverage,26,1017.22,26447.72,South,Returned,Online,2,2025,2025Q1
+ORD-1905,2025-01-30,CUST-237,Couple Basic,Electronics,47,1037.7849999999999,48775.89,Central,Cancelled,Mobile App,1,2025,2025Q1
+ORD-1906,2025-08-29,CUST-265,Fish Plus,Electronics,22,220.27,4845.94,East,Pending,Phone,8,2025,2025Q3
+ORD-1907,2025-07-30,CUST-225,Sing Max,Clothing,47,1285.24,60406.28,South,Returned,Phone,7,2025,2025Q3
+ORD-1908,2025-07-03,CUST-144,Itself Pro,Electronics,30,439.92,13197.6,West,Cancelled,Online,7,2025,2025Q3
+ORD-1910,2024-10-05,CUST-330,Happy Plus,Furniture,48,1303.9,62587.2,West,Pending,Mobile App,10,2024,2024Q4
+ORD-1912,2024-10-31,CUST-484,White Basic,Food & Beverage,26,132.09,3434.34,Central,Delivered,Mobile App,10,2024,2024Q4
+ORD-1913,2024-12-02,CUST-337,People Lite,Electronics,36,1037.7849999999999,37360.26,North,Delivered,Online,12,2024,2024Q4
+ORD-1914,2026-02-11,CUST-391,Wife Pro,Electronics,1,925.0,925.0,Central,Returned,Phone,2,2026,2026Q1
+ORD-1915,2024-06-02,CUST-412,Action Lite,Electronics,8,125.75,1006.0,North,Delivered,Online,6,2024,2024Q2
+ORD-1916,2025-11-11,CUST-442,Adult Basic,Electronics,49,1989.78,97499.22,East,Shipped,In-Store,11,2025,2025Q4
+ORD-1917,2024-09-24,CUST-294,These Plus,Clothing,35,124.98,4374.3,Central,Delivered,Phone,9,2024,2024Q3
+ORD-1919,2025-03-23,CUST-114,Get Lite,Furniture,47,1967.52,92473.44,Central,Pending,In-Store,3,2025,2025Q1
+ORD-1920,2025-09-20,CUST-353,Upon Pro,Furniture,22,485.97,10691.34,North,Shipped,Online,9,2025,2025Q3
+ORD-1921,2025-07-23,CUST-266,Newspaper Lite,Food & Beverage,14,293.08,4103.12,West,Cancelled,Online,7,2025,2025Q3
+ORD-1922,2026-02-13,CUST-193,Measure Max,Sports,26,251.56,6540.56,Central,Delivered,In-Store,2,2026,2026Q1
+ORD-1923,2025-05-02,CUST-349,Executive Max,Furniture,28,613.52,17178.56,South,Shipped,Phone,5,2025,2025Q2
+ORD-1924,2024-12-10,CUST-208,Mind Plus,Electronics,23,211.08,4854.84,West,Delivered,Online,12,2024,2024Q4
+ORD-1925,2024-11-05,CUST-281,Car Basic,Furniture,14,1387.4,19423.6,North,Shipped,Phone,11,2024,2024Q4
+ORD-1926,2026-02-25,CUST-232,Fear Pro,Furniture,24,133.96,3215.04,South,Delivered,Online,2,2026,2026Q1
+ORD-1927,2024-10-27,CUST-274,Party Basic,Clothing,2,1023.75,2047.5,East,Cancelled,In-Store,10,2024,2024Q4
+ORD-1928,2025-02-23,CUST-243,As Lite,Electronics,45,1993.43,89704.35,North,Shipped,In-Store,2,2025,2025Q1
+ORD-1929,2025-04-17,CUST-405,Eight Plus,Food & Beverage,26,1629.8,42374.8,West,Pending,Online,4,2025,2025Q2
+ORD-1930,2026-05-15,CUST-459,Sure Max,Food & Beverage,14,1234.29,17280.06,East,Cancelled,In-Store,5,2026,2026Q2
+ORD-1931,2026-05-21,CUST-241,New Max,Food & Beverage,7,619.44,4336.08,East,Pending,Online,5,2026,2026Q2
+ORD-1932,2025-09-25,CUST-384,Old Plus,Furniture,3,1251.55,3754.65,North,Cancelled,Mobile App,9,2025,2025Q3
+ORD-1934,2025-10-21,CUST-364,Take Basic,Food & Beverage,23,857.91,19731.93,North,Cancelled,Phone,10,2025,2025Q4
+ORD-1935,2025-07-30,CUST-197,Action Lite,Food & Beverage,46,270.11,12425.06,South,Delivered,In-Store,7,2025,2025Q3
+ORD-1936,2026-05-25,CUST-143,Example Basic,Clothing,43,1774.34,76296.62,South,Pending,Online,5,2026,2026Q2
+ORD-1938,2026-05-19,CUST-468,While Plus,Clothing,45,1037.7849999999999,46700.32,East,Shipped,Online,5,2026,2026Q2
+ORD-1939,2024-06-15,CUST-308,Despite Max,Electronics,18,741.84,13353.12,Central,Delivered,Phone,6,2024,2024Q2
+ORD-1940,2025-09-25,CUST-350,Yard Max,Clothing,38,834.12,31696.56,West,Pending,In-Store,9,2025,2025Q3
+ORD-1941,2026-01-17,CUST-384,Discover Lite,Electronics,35,1656.8,57988.0,South,Cancelled,Online,1,2026,2026Q1
+ORD-1942,2025-05-24,CUST-488,Work Pro,Food & Beverage,15,1469.89,22048.35,Central,Delivered,In-Store,5,2025,2025Q2
+ORD-1943,2025-11-03,CUST-223,Through Pro,Sports,25,1540.92,38523.0,South,Returned,Phone,11,2025,2025Q4
+ORD-1944,2026-05-18,CUST-453,Job Lite,Food & Beverage,37,31.95,1182.15,South,Cancelled,Mobile App,5,2026,2026Q2
+ORD-1945,2024-07-28,CUST-343,During Plus,Sports,28,838.15,23468.2,South,Shipped,Phone,7,2024,2024Q3
+ORD-1946,2025-03-10,CUST-430,Discussion Basic,Food & Beverage,10,967.87,9678.7,Unknown,Shipped,Mobile App,3,2025,2025Q1
+ORD-1947,2024-09-19,CUST-464,Sign Plus,Clothing,39,48.19,1879.41,Central,Pending,Online,9,2024,2024Q3
+ORD-1948,2024-09-29,CUST-351,International Basic,Sports,17,527.03,8959.51,East,Cancelled,In-Store,9,2024,2024Q3
+ORD-1949,2026-01-28,CUST-329,Relationship Pro,Food & Beverage,39,1522.98,59396.22,Unknown,Delivered,Mobile App,1,2026,2026Q1
+ORD-1950,2025-05-24,CUST-108,Certain Max,Furniture,22,282.85,6222.7,East,Delivered,In-Store,5,2025,2025Q2
+ORD-1951,2025-09-04,CUST-147,If Max,Sports,26,1075.27,27957.02,Central,Shipped,Online,9,2025,2025Q3
+ORD-1952,2025-06-06,CUST-250,Often Plus,Electronics,44,438.25,19283.0,Central,Cancelled,In-Store,6,2025,2025Q2
+ORD-1953,2025-11-09,CUST-213,Community Lite,Clothing,25,34.12,853.0,South,Cancelled,Mobile App,11,2025,2025Q4
+ORD-1954,2026-05-10,CUST-307,Likely Basic,Food & Beverage,17,489.99,8329.83,East,Shipped,Online,5,2026,2026Q2
+ORD-1955,2024-12-06,CUST-454,Clearly Max,Food & Beverage,13,1951.99,25375.87,East,Delivered,Online,12,2024,2024Q4
+ORD-1956,2026-03-20,CUST-224,Everyone Plus,Electronics,20,1605.06,32101.2,East,Shipped,Mobile App,3,2026,2026Q1
+ORD-1957,2024-11-17,CUST-256,Voice Lite,Food & Beverage,25,1919.56,47989.0,Central,Cancelled,In-Store,11,2024,2024Q4
+ORD-1958,2025-10-31,CUST-439,Approach Pro,Food & Beverage,4,980.83,3923.32,East,Delivered,Phone,10,2025,2025Q4
+ORD-1959,2024-07-11,CUST-397,Knowledge Lite,Electronics,10,228.38,2283.8,Central,Returned,In-Store,7,2024,2024Q3
+ORD-1960,2025-03-04,CUST-288,Spring Pro,Electronics,3,1100.44,3301.32,North,Shipped,Mobile App,3,2025,2025Q1
+ORD-1961,2024-06-29,CUST-342,Street Plus,Furniture,41,914.21,37482.61,South,Cancelled,In-Store,6,2024,2024Q2
+ORD-1962,2025-06-24,CUST-383,Level Lite,Furniture,45,1690.27,76062.15,West,Cancelled,Phone,6,2025,2025Q2
+ORD-1963,2026-05-17,CUST-371,Left Plus,Electronics,18,205.18,3693.24,North,Pending,In-Store,5,2026,2026Q2
+ORD-1964,2025-02-06,CUST-276,Board Pro,Sports,47,981.6,46135.2,East,Pending,Online,2,2025,2025Q1
+ORD-1965,2025-07-09,CUST-317,Talk Max,Sports,36,308.6,11109.6,South,Shipped,In-Store,7,2025,2025Q3
+ORD-1966,2025-09-14,CUST-481,Interesting Max,Sports,47,656.11,30837.17,South,Delivered,Online,9,2025,2025Q3
+ORD-1968,2024-11-28,CUST-269,Do Basic,Furniture,34,957.28,32547.52,South,Returned,In-Store,11,2024,2024Q4
+ORD-1969,2025-10-26,CUST-280,Price Basic,Sports,47,758.02,35626.94,East,Delivered,Online,10,2025,2025Q4
+ORD-1970,2025-02-03,CUST-459,Fear Max,Sports,8,1037.7849999999999,8302.28,South,Pending,Phone,2,2025,2025Q1
+ORD-1971,2025-02-13,CUST-332,Election Max,Sports,40,924.3,36972.0,West,Cancelled,Online,2,2025,2025Q1
+ORD-1972,2024-11-19,CUST-238,Worry Lite,Electronics,49,1572.18,77036.82,West,Pending,Online,11,2024,2024Q4
+ORD-1973,2025-05-16,CUST-256,Local Lite,Food & Beverage,44,1785.25,78551.0,South,Shipped,Online,5,2025,2025Q2
+ORD-1975,2025-10-19,CUST-218,Face Basic,Food & Beverage,42,1575.94,66189.48,East,Delivered,Online,10,2025,2025Q4
+ORD-1976,2025-05-02,CUST-161,Whose Lite,Furniture,41,637.66,26144.06,West,Shipped,Mobile App,5,2025,2025Q2
+ORD-1977,2024-11-27,CUST-469,Worker Pro,Food & Beverage,37,1379.39,51037.43,West,Delivered,Phone,11,2024,2024Q4
+ORD-1978,2024-12-08,CUST-198,Low Lite,Clothing,6,880.83,5284.98,West,Shipped,Phone,12,2024,2024Q4
+ORD-1979,2024-08-12,CUST-261,Usually Lite,Sports,26,516.79,13436.54,North,Cancelled,In-Store,8,2024,2024Q3
+ORD-1980,2026-05-15,CUST-161,Admit Lite,Sports,34,1037.7849999999999,35284.69,North,Pending,In-Store,5,2026,2026Q2
+ORD-1981,2026-02-18,CUST-480,Policy Plus,Electronics,45,86.47,3891.15,West,Delivered,In-Store,2,2026,2026Q1
+ORD-1982,2025-12-03,CUST-374,Yeah Pro,Electronics,6,1804.51,10827.06,Central,Shipped,Mobile App,12,2025,2025Q4
+ORD-1983,2025-11-16,CUST-490,Claim Max,Clothing,37,928.34,34348.58,East,Pending,Phone,11,2025,2025Q4
+ORD-1985,2024-11-10,CUST-194,Bill Basic,Food & Beverage,22,1322.11,29086.42,West,Delivered,In-Store,11,2024,2024Q4
+ORD-1986,2026-01-20,CUST-198,Blood Max,Food & Beverage,21,1791.28,37616.88,West,Cancelled,In-Store,1,2026,2026Q1
+ORD-1987,2026-05-25,CUST-210,Congress Plus,Clothing,6,1276.97,7661.82,East,Shipped,Online,5,2026,2026Q2
+ORD-1988,2025-04-06,CUST-478,Price Basic,Electronics,6,1231.73,7390.38,Central,Delivered,In-Store,4,2025,2025Q2
+ORD-1989,2025-02-10,CUST-347,Treatment Lite,Food & Beverage,48,142.64,6846.72,North,Delivered,Phone,2,2025,2025Q1
+ORD-1990,2025-02-25,CUST-241,Remain Basic,Furniture,4,1041.63,4166.52,North,Returned,Online,2,2025,2025Q1
+ORD-1992,2025-01-08,CUST-401,So Pro,Furniture,11,1477.49,16252.39,East,Returned,Mobile App,1,2025,2025Q1
+ORD-1993,2024-11-13,CUST-489,Recently Max,Furniture,30,1029.32,30879.6,North,Shipped,Phone,11,2024,2024Q4
+ORD-1994,2025-04-13,CUST-368,Drug Plus,Electronics,31,1363.65,42273.15,Central,Pending,Online,4,2025,2025Q2
+ORD-1996,2025-09-19,CUST-244,Side Basic,Clothing,9,178.74,1608.66,South,Shipped,In-Store,9,2025,2025Q3
+ORD-1997,2024-06-25,CUST-151,Get Plus,Sports,3,1435.48,4306.44,West,Shipped,Online,6,2024,2024Q2
+ORD-1998,2025-10-10,CUST-199,Herself Plus,Food & Beverage,31,153.45,4756.95,South,Cancelled,Online,10,2025,2025Q4
+ORD-1999,2024-12-26,CUST-251,Paper Basic,Food & Beverage,40,151.8,6072.0,West,Delivered,Mobile App,12,2024,2024Q4
+ORD-2000,2024-08-25,CUST-216,Find Pro,Clothing,37,34.1,1261.7,East,Returned,In-Store,8,2024,2024Q3
+ORD-2001,2025-01-20,CUST-284,Yes Lite,Electronics,36,1913.44,68883.84,East,Pending,Phone,1,2025,2025Q1
+ORD-2002,2025-04-13,CUST-191,Bad Max,Food & Beverage,24,1477.64,35463.36,East,Delivered,In-Store,4,2025,2025Q2
+ORD-2003,2025-11-15,CUST-254,Simple Pro,Food & Beverage,31,712.97,22102.07,East,Delivered,Mobile App,11,2025,2025Q4
+ORD-2004,2026-02-28,CUST-107,Care Plus,Sports,6,600.11,3600.66,Unknown,Delivered,Online,2,2026,2026Q1
+ORD-2005,2025-04-12,CUST-462,Value Plus,Food & Beverage,2,705.91,1411.82,Central,Shipped,In-Store,4,2025,2025Q2
+ORD-2006,2025-10-11,CUST-373,Reason Basic,Electronics,20,1551.56,31031.2,South,Returned,Online,10,2025,2025Q4
+ORD-2008,2025-09-28,CUST-240,Ability Lite,Food & Beverage,11,378.54,4163.94,West,Shipped,Phone,9,2025,2025Q3
+ORD-2010,2025-11-06,CUST-127,No Basic,Electronics,15,205.81,3087.15,North,Shipped,In-Store,11,2025,2025Q4
+ORD-2011,2024-09-19,CUST-383,Factor Lite,Food & Beverage,6,1324.0,7944.0,Unknown,Pending,In-Store,9,2024,2024Q3
+ORD-2012,2026-04-04,CUST-249,Or Lite,Electronics,49,1531.1,75023.9,North,Returned,Online,4,2026,2026Q2
+ORD-2013,2025-04-12,CUST-457,Nothing Plus,Electronics,30,537.44,16123.2,West,Pending,Online,4,2025,2025Q2
+ORD-2014,2024-06-05,CUST-164,Down Basic,Food & Beverage,38,51.68,1963.84,North,Cancelled,Mobile App,6,2024,2024Q2
+ORD-2015,2025-07-14,CUST-426,Doctor Pro,Food & Beverage,2,173.52,347.04,North,Shipped,Mobile App,7,2025,2025Q3
+ORD-2016,2024-10-28,CUST-485,Study Pro,Electronics,15,1936.04,29040.6,South,Delivered,In-Store,10,2024,2024Q4
+ORD-2017,2024-09-27,CUST-351,Control Basic,Sports,11,597.94,6577.34,West,Cancelled,Phone,9,2024,2024Q3
+ORD-2018,2026-04-17,CUST-152,Senior Lite,Sports,8,1540.75,12326.0,West,Pending,Mobile App,4,2026,2026Q2
+ORD-2019,2025-11-16,CUST-106,Might Max,Electronics,26,1253.08,32580.08,North,Shipped,Mobile App,11,2025,2025Q4
+ORD-2020,2024-11-19,CUST-393,Article Lite,Electronics,45,770.06,34652.7,West,Pending,Phone,11,2024,2024Q4
+ORD-2021,2024-12-30,CUST-245,Action Lite,Sports,44,419.32,18450.08,South,Delivered,Online,12,2024,2024Q4
+ORD-2022,2025-08-15,CUST-340,Painting Max,Sports,5,1037.7849999999999,5188.92,South,Cancelled,Online,8,2025,2025Q3
+ORD-2023,2025-01-07,CUST-345,Six Lite,Furniture,6,1233.88,7403.28,East,Cancelled,Online,1,2025,2025Q1
+ORD-2024,2025-07-25,CUST-325,Paper Max,Sports,26,1551.52,40339.52,South,Returned,In-Store,7,2025,2025Q3
+ORD-2025,2026-04-02,CUST-274,Least Basic,Sports,4,1291.37,5165.48,East,Pending,In-Store,4,2026,2026Q2
+ORD-2026,2025-08-17,CUST-194,Indeed Max,Clothing,19,1065.3,20240.7,North,Returned,Online,8,2025,2025Q3
+ORD-2027,2025-09-27,CUST-126,Necessary Pro,Food & Beverage,20,93.48,1869.6,East,Cancelled,Phone,9,2025,2025Q3
+ORD-2028,2025-09-02,CUST-229,Together Max,Furniture,33,1937.29,63930.57,East,Shipped,Online,9,2025,2025Q3
+ORD-2029,2024-06-26,CUST-344,Who Lite,Furniture,20,1599.44,31988.8,North,Returned,Online,6,2024,2024Q2
+ORD-2030,2025-02-09,CUST-158,Statement Basic,Electronics,49,592.72,29043.28,East,Shipped,In-Store,2,2025,2025Q1
+ORD-2031,2025-03-20,CUST-133,Man Max,Clothing,12,1960.14,23521.68,South,Returned,Phone,3,2025,2025Q1
+ORD-2032,2025-04-01,CUST-305,Full Lite,Food & Beverage,47,1207.74,56763.78,North,Pending,Mobile App,4,2025,2025Q2
+ORD-2033,2024-10-17,CUST-351,Suddenly Max,Furniture,1,1169.02,1169.02,West,Pending,Phone,10,2024,2024Q4
+ORD-2034,2024-11-28,CUST-137,Early Basic,Sports,26,1498.67,38965.42,East,Cancelled,In-Store,11,2024,2024Q4
+ORD-2035,2025-12-13,CUST-395,Me Basic,Sports,14,1625.42,22755.88,South,Pending,Mobile App,12,2025,2025Q4
+ORD-2036,2026-03-16,CUST-422,Safe Pro,Sports,38,1316.39,50022.82,West,Returned,In-Store,3,2026,2026Q1
+ORD-2037,2024-08-16,CUST-451,Exactly Basic,Food & Beverage,37,264.91,9801.67,North,Returned,Online,8,2024,2024Q3
+ORD-2038,2026-04-04,CUST-127,Medical Lite,Furniture,11,683.15,7514.65,North,Shipped,Mobile App,4,2026,2026Q2
+ORD-2039,2026-05-22,CUST-177,Young Basic,Food & Beverage,36,1037.7849999999999,37360.26,North,Delivered,In-Store,5,2026,2026Q2
+ORD-2040,2025-08-06,CUST-176,Fall Basic,Electronics,13,456.99,5940.87,South,Returned,Online,8,2025,2025Q3
+ORD-2041,2025-01-24,CUST-388,View Lite,Electronics,43,750.61,32276.23,West,Shipped,In-Store,1,2025,2025Q1
+ORD-2042,2025-11-06,CUST-255,Economic Lite,Clothing,3,869.83,2609.49,North,Cancelled,Phone,11,2025,2025Q4
+ORD-2043,2024-08-30,CUST-143,That Basic,Electronics,33,884.42,29185.86,South,Pending,In-Store,8,2024,2024Q3
+ORD-2044,2024-11-29,CUST-227,House Basic,Furniture,6,1229.75,7378.5,Central,Pending,Phone,11,2024,2024Q4
+ORD-2045,2025-07-04,CUST-160,Live Max,Furniture,10,1886.72,18867.2,South,Returned,In-Store,7,2025,2025Q3
+ORD-2046,2025-02-22,CUST-385,Manage Basic,Furniture,5,488.98,2444.9,Central,Pending,Online,2,2025,2025Q1
+ORD-2047,2026-03-06,CUST-491,It Pro,Sports,23,251.79,5791.17,West,Pending,Phone,3,2026,2026Q1
+ORD-2048,2026-04-30,CUST-313,Threat Pro,Sports,10,402.97,4029.7,North,Shipped,Phone,4,2026,2026Q2
+ORD-2049,2026-05-07,CUST-410,Seek Pro,Furniture,44,1774.98,78099.12,North,Returned,Online,5,2026,2026Q2
+ORD-2050,2025-05-06,CUST-405,Right Pro,Electronics,2,1295.16,2590.32,East,Cancelled,Phone,5,2025,2025Q2
+ORD-2051,2026-03-13,CUST-416,Peace Basic,Electronics,13,578.95,7526.35,North,Shipped,In-Store,3,2026,2026Q1
+ORD-2052,2025-11-09,CUST-215,Enter Max,Clothing,40,1633.73,65349.2,West,Delivered,In-Store,11,2025,2025Q4
+ORD-2053,2024-08-01,CUST-497,Dark Lite,Food & Beverage,2,1724.13,3448.26,South,Returned,Phone,8,2024,2024Q3
+ORD-2054,2024-07-23,CUST-367,Step Basic,Clothing,20,1694.56,33891.2,West,Pending,In-Store,7,2024,2024Q3
+ORD-2055,2025-11-30,CUST-294,Stage Plus,Food & Beverage,1,1838.66,1838.66,North,Returned,Phone,11,2025,2025Q4
+ORD-2056,2024-07-28,CUST-330,Thing Basic,Electronics,37,511.96,18942.52,South,Shipped,Mobile App,7,2024,2024Q3
+ORD-2057,2025-12-24,CUST-326,Place Pro,Furniture,9,1512.53,13612.77,West,Pending,In-Store,12,2025,2025Q4
+ORD-2058,2024-09-05,CUST-252,Look Plus,Sports,17,926.47,15749.99,North,Delivered,Phone,9,2024,2024Q3
+ORD-2059,2025-12-06,CUST-401,Garden Basic,Clothing,9,1685.58,15170.22,North,Returned,In-Store,12,2025,2025Q4
+ORD-2060,2025-01-18,CUST-319,Story Max,Clothing,11,1459.7,16056.7,North,Cancelled,Mobile App,1,2025,2025Q1
+ORD-2061,2024-09-06,CUST-256,Card Max,Electronics,15,1555.13,23326.95,East,Shipped,Mobile App,9,2024,2024Q3
+ORD-2062,2025-03-12,CUST-391,Everybody Plus,Food & Beverage,24,1315.76,31578.24,East,Returned,In-Store,3,2025,2025Q1
+ORD-2063,2025-08-13,CUST-417,Production Lite,Clothing,38,363.08,13797.04,East,Cancelled,Mobile App,8,2025,2025Q3
+ORD-2065,2026-05-30,CUST-412,Everybody Max,Clothing,30,1969.49,59084.7,West,Shipped,Online,5,2026,2026Q2
+ORD-2066,2026-04-11,CUST-478,Explain Plus,Furniture,31,1875.4,58137.4,South,Returned,Online,4,2026,2026Q2
+ORD-2067,2026-01-21,CUST-150,Star Pro,Electronics,49,95.92,4700.08,South,Pending,Mobile App,1,2026,2026Q1
+ORD-2068,2024-12-04,CUST-490,Look Pro,Food & Beverage,5,337.98,1689.9,North,Pending,In-Store,12,2024,2024Q4
+ORD-2069,2025-03-30,CUST-206,Remain Lite,Electronics,44,272.14,11974.16,Central,Cancelled,Online,3,2025,2025Q1
+ORD-2070,2026-01-23,CUST-420,Plant Plus,Sports,14,1454.7,20365.8,Central,Pending,Phone,1,2026,2026Q1
+ORD-2071,2025-07-29,CUST-208,Behavior Plus,Electronics,11,1637.39,18011.29,North,Delivered,Phone,7,2025,2025Q3
+ORD-2072,2025-06-25,CUST-235,Some Plus,Food & Beverage,9,434.89,3914.01,Central,Delivered,Phone,6,2025,2025Q2
+ORD-2073,2024-09-11,CUST-438,Thank Plus,Food & Beverage,34,1016.65,34566.1,South,Returned,In-Store,9,2024,2024Q3
+ORD-2074,2025-06-04,CUST-141,Security Lite,Sports,12,1683.0,20196.0,West,Delivered,Mobile App,6,2025,2025Q2
+ORD-2075,2025-12-23,CUST-180,Trial Max,Sports,35,1468.28,51389.8,East,Delivered,In-Store,12,2025,2025Q4
+ORD-2076,2024-06-16,CUST-222,Anything Basic,Clothing,35,1089.05,38116.75,South,Shipped,Mobile App,6,2024,2024Q2
+ORD-2077,2025-08-19,CUST-188,Even Lite,Food & Beverage,1,1184.79,1184.79,South,Shipped,In-Store,8,2025,2025Q3
+ORD-2078,2025-08-30,CUST-382,Physical Max,Electronics,40,1021.64,40865.6,West,Delivered,In-Store,8,2025,2025Q3
+ORD-2079,2026-01-28,CUST-138,Beautiful Max,Sports,22,602.12,13246.64,Central,Shipped,In-Store,1,2026,2026Q1
+ORD-2080,2024-10-22,CUST-180,Wish Max,Electronics,29,1134.39,32897.31,West,Delivered,Online,10,2024,2024Q4
+ORD-2081,2024-06-08,CUST-101,Wear Plus,Sports,8,1380.88,11047.04,South,Cancelled,Phone,6,2024,2024Q2
+ORD-2082,2025-11-01,CUST-309,Address Lite,Food & Beverage,11,1747.91,19227.01,North,Shipped,Phone,11,2025,2025Q4
+ORD-2083,2025-06-23,CUST-330,Western Max,Sports,41,1276.22,52325.02,North,Delivered,In-Store,6,2025,2025Q2
+ORD-2084,2026-03-01,CUST-452,Late Basic,Food & Beverage,37,1524.63,56411.31,South,Delivered,Phone,3,2026,2026Q1
+ORD-2086,2026-05-03,CUST-340,Police Pro,Clothing,30,928.5,27855.0,Central,Cancelled,Mobile App,5,2026,2026Q2
+ORD-2087,2024-07-08,CUST-249,Better Max,Sports,35,28.57,999.95,West,Cancelled,Online,7,2024,2024Q3
+ORD-2088,2026-01-16,CUST-116,Good Lite,Clothing,21,500.89,10518.69,East,Returned,Phone,1,2026,2026Q1
+ORD-2089,2025-07-18,CUST-218,Red Plus,Clothing,37,1455.66,53859.42,West,Returned,In-Store,7,2025,2025Q3
+ORD-2090,2024-09-06,CUST-247,Record Pro,Electronics,5,1983.7,9918.5,East,Returned,In-Store,9,2024,2024Q3
+ORD-2091,2025-08-03,CUST-461,Pick Max,Food & Beverage,19,207.36,3939.84,South,Pending,Mobile App,8,2025,2025Q3
+ORD-2092,2026-05-17,CUST-244,Nearly Plus,Sports,14,1037.7849999999999,14528.99,South,Delivered,Phone,5,2026,2026Q2
+ORD-2093,2024-10-16,CUST-459,Least Lite,Sports,26,1602.14,41655.64,East,Pending,In-Store,10,2024,2024Q4
+ORD-2094,2026-03-31,CUST-332,Ability Lite,Furniture,4,416.03,1664.12,North,Shipped,In-Store,3,2026,2026Q1
+ORD-2095,2026-04-19,CUST-136,Foreign Pro,Sports,25,1114.62,27865.5,South,Returned,Online,4,2026,2026Q2
+ORD-2097,2026-04-06,CUST-219,Purpose Max,Food & Beverage,42,1235.81,51904.02,Central,Delivered,Online,4,2026,2026Q2
+ORD-2098,2026-04-23,CUST-235,Space Plus,Sports,25,384.17,9604.25,Central,Shipped,Online,4,2026,2026Q2
+ORD-2099,2025-12-07,CUST-420,Teacher Basic,Clothing,18,717.22,12909.96,Central,Cancelled,Phone,12,2025,2025Q4
+ORD-2100,2024-09-28,CUST-401,Financial Plus,Furniture,40,1569.75,62790.0,East,Delivered,Online,9,2024,2024Q3
+ORD-2101,2024-08-20,CUST-438,Worry Lite,Food & Beverage,8,1112.91,8903.28,North,Cancelled,Phone,8,2024,2024Q3
+ORD-2102,2024-07-25,CUST-201,Answer Lite,Furniture,39,20.41,795.99,East,Shipped,Phone,7,2024,2024Q3
+ORD-2103,2024-09-04,CUST-317,Mrs Max,Furniture,40,1524.37,60974.8,South,Pending,Phone,9,2024,2024Q3
+ORD-2104,2024-09-23,CUST-158,Cover Basic,Food & Beverage,14,80.27,1123.78,Central,Returned,Online,9,2024,2024Q3
+ORD-2105,2024-12-30,CUST-378,Prove Max,Clothing,32,1037.7849999999999,33209.12,Central,Cancelled,Phone,12,2024,2024Q4
+ORD-2106,2025-08-31,CUST-215,Office Lite,Clothing,38,412.94,15691.72,Central,Pending,Phone,8,2025,2025Q3
+ORD-2107,2024-07-02,CUST-431,Same Lite,Food & Beverage,33,1916.57,63246.81,South,Delivered,In-Store,7,2024,2024Q3
+ORD-2108,2025-05-17,CUST-176,Clear Plus,Sports,23,742.2,17070.6,West,Returned,Online,5,2025,2025Q2
+ORD-2109,2025-05-21,CUST-236,Consider Basic,Sports,15,660.59,9908.85,East,Pending,Online,5,2025,2025Q2
+ORD-2110,2024-09-04,CUST-172,Ago Plus,Furniture,33,306.29,10107.57,North,Returned,Phone,9,2024,2024Q3
+ORD-2111,2025-08-01,CUST-136,Newspaper Plus,Sports,25,618.15,15453.75,South,Delivered,In-Store,8,2025,2025Q3
+ORD-2112,2025-05-07,CUST-130,Traditional Max,Furniture,17,1754.54,29827.18,West,Delivered,In-Store,5,2025,2025Q2
+ORD-2113,2024-11-28,CUST-184,Pm Plus,Sports,33,1992.71,65759.43,West,Pending,Mobile App,11,2024,2024Q4
+ORD-2114,2024-08-05,CUST-257,Whom Pro,Clothing,47,742.94,34918.18,North,Delivered,Mobile App,8,2024,2024Q3
+ORD-2115,2024-12-06,CUST-404,Lay Pro,Clothing,2,902.74,1805.48,South,Shipped,In-Store,12,2024,2024Q4
+ORD-2116,2024-11-22,CUST-483,Tonight Plus,Clothing,14,1446.92,20256.88,West,Returned,Online,11,2024,2024Q4
+ORD-2117,2025-04-24,CUST-391,General Basic,Sports,40,1773.53,70941.2,Central,Delivered,Online,4,2025,2025Q2
+ORD-2118,2024-07-24,CUST-247,Word Plus,Furniture,40,1037.7849999999999,41511.4,North,Delivered,Phone,7,2024,2024Q3
+ORD-2119,2025-08-01,CUST-324,Just Lite,Furniture,39,789.14,30776.46,Central,Shipped,Mobile App,8,2025,2025Q3
+ORD-2120,2024-10-12,CUST-163,Piece Lite,Clothing,6,831.12,4986.72,North,Returned,In-Store,10,2024,2024Q4
+ORD-2121,2025-06-06,CUST-339,Prevent Basic,Clothing,6,1394.28,8365.68,East,Cancelled,Phone,6,2025,2025Q2
+ORD-2122,2025-10-17,CUST-452,Best Max,Sports,3,16.4,49.2,East,Shipped,Online,10,2025,2025Q4
+ORD-2124,2025-07-04,CUST-458,Else Pro,Furniture,8,717.43,5739.44,West,Returned,Phone,7,2025,2025Q3
+ORD-2125,2026-03-28,CUST-306,Growth Max,Electronics,42,1590.45,66798.9,Central,Shipped,In-Store,3,2026,2026Q1
+ORD-2126,2026-05-07,CUST-239,Source Plus,Furniture,15,195.05,2925.75,West,Returned,Phone,5,2026,2026Q2
+ORD-2127,2024-12-27,CUST-356,Success Basic,Sports,47,1180.52,55484.44,East,Shipped,In-Store,12,2024,2024Q4
+ORD-2128,2026-03-23,CUST-376,Star Plus,Food & Beverage,29,1037.7849999999999,30095.76,Central,Returned,Mobile App,3,2026,2026Q1
+ORD-2129,2025-06-21,CUST-352,Health Max,Sports,33,1288.23,42511.59,South,Returned,Phone,6,2025,2025Q2
+ORD-2130,2026-04-06,CUST-324,Loss Basic,Sports,30,139.06,4171.8,West,Cancelled,Online,4,2026,2026Q2
+ORD-2131,2024-09-16,CUST-141,From Pro,Food & Beverage,39,1164.17,45402.63,North,Delivered,Online,9,2024,2024Q3
+ORD-2132,2026-05-28,CUST-406,Response Pro,Sports,27,1127.35,30438.45,North,Returned,Phone,5,2026,2026Q2
+ORD-2133,2024-12-10,CUST-120,Cover Plus,Furniture,36,1125.71,40525.56,Central,Pending,Mobile App,12,2024,2024Q4
+ORD-2134,2024-08-25,CUST-321,Next Lite,Food & Beverage,29,1210.94,35117.26,Unknown,Cancelled,Online,8,2024,2024Q3
+ORD-2135,2025-12-26,CUST-476,Stop Max,Electronics,38,1356.17,51534.46,North,Cancelled,Mobile App,12,2025,2025Q4
+ORD-2136,2025-10-05,CUST-265,Church Max,Sports,33,1611.93,53193.69,East,Delivered,Phone,10,2025,2025Q4
+ORD-2137,2026-04-07,CUST-409,Occur Plus,Electronics,37,546.94,20236.78,South,Shipped,Mobile App,4,2026,2026Q2
+ORD-2138,2026-03-11,CUST-228,New Max,Electronics,27,1651.85,44599.95,Unknown,Shipped,In-Store,3,2026,2026Q1
+ORD-2139,2025-03-01,CUST-113,Join Pro,Food & Beverage,33,1001.53,33050.49,North,Returned,Online,3,2025,2025Q1
+ORD-2140,2025-01-20,CUST-146,High Plus,Clothing,4,163.35,653.4,West,Cancelled,Mobile App,1,2025,2025Q1
+ORD-2141,2026-01-01,CUST-217,Each Pro,Electronics,22,126.52,2783.44,Central,Returned,Online,1,2026,2026Q1
+ORD-2142,2024-08-19,CUST-445,Let Basic,Electronics,2,675.13,1350.26,East,Pending,Mobile App,8,2024,2024Q3
+ORD-2143,2024-06-04,CUST-394,All Basic,Clothing,10,1571.94,15719.4,Central,Shipped,Online,6,2024,2024Q2
+ORD-2144,2024-07-25,CUST-400,Mouth Lite,Furniture,5,1418.29,7091.45,West,Returned,Online,7,2024,2024Q3
+ORD-2145,2026-01-20,CUST-110,Form Max,Clothing,10,1579.34,15793.4,Unknown,Returned,Phone,1,2026,2026Q1
+ORD-2146,2025-07-31,CUST-491,Mind Basic,Furniture,33,1039.37,34299.21,West,Cancelled,Mobile App,7,2025,2025Q3
+ORD-2147,2024-10-23,CUST-444,Alone Max,Furniture,38,886.0,33668.0,North,Pending,Phone,10,2024,2024Q4
+ORD-2148,2025-10-05,CUST-237,Interview Pro,Clothing,13,303.43,3944.59,Central,Pending,Online,10,2025,2025Q4
+ORD-2149,2024-07-13,CUST-395,Half Plus,Electronics,31,663.1,20556.1,Central,Returned,Mobile App,7,2024,2024Q3
+ORD-2150,2024-07-30,CUST-120,House Basic,Furniture,47,873.7,41063.9,Central,Pending,Mobile App,7,2024,2024Q3
+ORD-2152,2026-01-26,CUST-487,Why Basic,Sports,45,449.02,20205.9,East,Cancelled,Online,1,2026,2026Q1
+ORD-2153,2025-11-30,CUST-189,Resource Max,Electronics,24,1200.47,28811.28,North,Cancelled,In-Store,11,2025,2025Q4
+ORD-2154,2026-04-14,CUST-340,Dark Basic,Furniture,15,1473.97,22109.55,East,Pending,In-Store,4,2026,2026Q2
+ORD-2155,2024-10-30,CUST-365,Right Basic,Food & Beverage,29,1996.71,57904.59,North,Returned,Mobile App,10,2024,2024Q4
+ORD-2156,2024-07-19,CUST-433,Specific Pro,Electronics,8,1866.9,14935.2,Central,Shipped,In-Store,7,2024,2024Q3
+ORD-2157,2025-05-01,CUST-326,Area Lite,Sports,5,1037.7849999999999,5188.92,South,Returned,Online,5,2025,2025Q2
+ORD-2159,2024-10-25,CUST-192,Itself Plus,Clothing,47,1275.99,59971.53,Central,Shipped,In-Store,10,2024,2024Q4
+ORD-2160,2025-06-20,CUST-399,Establish Max,Sports,4,1573.45,6293.8,East,Cancelled,In-Store,6,2025,2025Q2
+ORD-2162,2025-05-09,CUST-425,Administration Basic,Clothing,45,825.71,37156.95,Central,Pending,Mobile App,5,2025,2025Q2
+ORD-2163,2024-07-03,CUST-351,Trial Max,Sports,2,1681.21,3362.42,Unknown,Pending,Mobile App,7,2024,2024Q3
+ORD-2164,2024-09-21,CUST-146,Like Lite,Furniture,27,773.83,20893.41,East,Cancelled,Phone,9,2024,2024Q3
+ORD-2165,2025-03-02,CUST-340,At Lite,Electronics,31,1148.03,35588.93,West,Cancelled,Mobile App,3,2025,2025Q1
+ORD-2166,2025-11-18,CUST-278,Professor Basic,Food & Beverage,36,1179.66,42467.76,South,Cancelled,Online,11,2025,2025Q4
+ORD-2167,2025-11-11,CUST-309,Say Basic,Food & Beverage,36,377.11,13575.96,North,Delivered,Online,11,2025,2025Q4
+ORD-2168,2024-08-06,CUST-270,Soon Plus,Food & Beverage,26,730.85,19002.1,South,Delivered,Mobile App,8,2024,2024Q3
+ORD-2169,2025-05-21,CUST-264,Lawyer Basic,Furniture,43,675.68,29054.24,North,Pending,Mobile App,5,2025,2025Q2
+ORD-2170,2024-12-09,CUST-443,Structure Pro,Sports,27,62.13,1677.51,West,Returned,Phone,12,2024,2024Q4
+ORD-2171,2024-09-20,CUST-153,Mother Pro,Electronics,5,58.14,290.7,North,Delivered,Phone,9,2024,2024Q3
+ORD-2172,2024-07-03,CUST-182,Process Pro,Electronics,20,1665.08,33301.6,West,Returned,Online,7,2024,2024Q3
+ORD-2173,2025-10-15,CUST-268,Fast Lite,Furniture,11,553.41,6087.51,Central,Shipped,Phone,10,2025,2025Q4
+ORD-2174,2024-07-15,CUST-310,Note Max,Clothing,10,1037.7849999999999,10377.85,Central,Pending,Mobile App,7,2024,2024Q3
+ORD-2175,2026-02-26,CUST-455,Represent Plus,Sports,40,604.46,24178.4,North,Delivered,Phone,2,2026,2026Q1
+ORD-2177,2025-08-03,CUST-247,Beyond Plus,Clothing,6,526.0,3156.0,South,Shipped,Online,8,2025,2025Q3
+ORD-2178,2026-03-13,CUST-439,Board Lite,Furniture,8,865.02,6920.16,North,Shipped,In-Store,3,2026,2026Q1
+ORD-2179,2025-12-02,CUST-305,Sound Basic,Sports,23,1746.73,40174.79,North,Pending,Phone,12,2025,2025Q4
+ORD-2180,2025-06-22,CUST-489,Point Basic,Sports,47,1685.45,79216.15,South,Delivered,Online,6,2025,2025Q2
+ORD-2181,2024-07-08,CUST-381,Join Lite,Sports,26,380.34,9888.84,North,Pending,Online,7,2024,2024Q3
+ORD-2182,2024-12-06,CUST-118,Compare Max,Clothing,46,1607.26,73933.96,South,Returned,Phone,12,2024,2024Q4
+ORD-2183,2025-10-27,CUST-332,Amount Basic,Clothing,43,921.79,39636.97,West,Returned,In-Store,10,2025,2025Q4
+ORD-2184,2024-12-07,CUST-145,Low Max,Furniture,12,971.11,11653.32,East,Returned,Mobile App,12,2024,2024Q4
+ORD-2186,2024-12-16,CUST-229,Tell Plus,Clothing,13,170.4,2215.2,Central,Returned,Online,12,2024,2024Q4
+ORD-2187,2025-09-28,CUST-265,Choose Basic,Electronics,40,1458.6,58344.0,East,Shipped,In-Store,9,2025,2025Q3
+ORD-2188,2026-02-08,CUST-159,Past Max,Clothing,18,997.96,17963.28,South,Delivered,Mobile App,2,2026,2026Q1
+ORD-2189,2025-11-12,CUST-495,Difficult Basic,Clothing,25,879.33,21983.25,East,Delivered,Online,11,2025,2025Q4
+ORD-2191,2025-01-29,CUST-363,Year Basic,Electronics,47,1533.37,72068.39,East,Pending,Phone,1,2025,2025Q1
+ORD-2192,2026-03-23,CUST-100,Know Basic,Food & Beverage,40,326.23,13049.2,North,Shipped,In-Store,3,2026,2026Q1
+ORD-2193,2025-10-14,CUST-436,Suddenly Basic,Electronics,43,1224.35,52647.05,North,Shipped,In-Store,10,2025,2025Q4
+ORD-2194,2025-12-03,CUST-377,Four Plus,Food & Beverage,12,279.35,3352.2,East,Delivered,Online,12,2025,2025Q4
+ORD-2195,2024-09-07,CUST-336,Entire Basic,Furniture,44,1505.24,66230.56,West,Pending,Mobile App,9,2024,2024Q3
+ORD-2196,2025-05-28,CUST-311,Significant Max,Sports,36,1317.34,47424.24,East,Returned,Phone,5,2025,2025Q2
+ORD-2197,2026-03-02,CUST-127,Dog Plus,Furniture,48,1913.66,91855.68,Central,Shipped,In-Store,3,2026,2026Q1
+ORD-2198,2026-01-12,CUST-196,Let Pro,Clothing,4,147.23,588.92,Unknown,Shipped,Phone,1,2026,2026Q1
+ORD-2199,2025-04-14,CUST-365,Street Max,Clothing,5,123.54,617.7,East,Pending,Mobile App,4,2025,2025Q2

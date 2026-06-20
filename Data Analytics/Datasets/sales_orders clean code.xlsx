@@ -1,0 +1,31 @@
+import pandas as pd
+import numpy as np
+df = pd.read_excel("sales_orders.xlsx")
+print("Before:", df.shape)
+
+# Drop rows missing critical columns
+df = df.dropna(subset=["Order_Date", "Customer_ID"])
+df["Order_Date"] = pd.to_datetime(df["Order_Date"])
+
+#Fix prices and quantities
+df["Unit_Price"] = df["Unit_Price"].fillna(df["Unit_Price"].median())
+df = df[df["Quantity"] > 0]
+df = df[df["Unit_Price"] > 0]
+
+#Recalculate total
+df["Total_Sales"] = (df["Quantity"] * df["Unit_Price"]).round(2)
+# Fix casing & invalid strings
+df["Order_Status"] = df["Order_Status"].str.strip().str.title()
+df["Category"] = df["Category"].str.strip().str.title()
+df["Sales_Channel"] = df["Sales_Channel"].str.strip().str.title()
+df["Region"] = df["Region"].replace("N/A", np.nan).fillna("Unknown")
+
+#Add date columns for Power BI
+df["Order_Month"] = df["Order_Date"].dt.month
+df["Order_Year"] = df["Order_Date"].dt.year
+df["Order_Quarter"] = df["Order_Date"].dt.to_period("Q").astype(str)
+df = df.drop_duplicates(subset=["Order_ID"]).reset_index(drop=True)
+print("After:", df.shape)
+df.to_csv("sales_orders_cleaned.csv", index=False)
+
+print("Saved -> sales_orders_cleaned.csv")

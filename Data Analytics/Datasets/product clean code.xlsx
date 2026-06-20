@@ -1,0 +1,31 @@
+import pandas as pd
+import numpy as np
+df = pd.read_excel("products.xlsx")
+print("Before:", df.shape)
+
+#Fix casing & blank brands
+df["Brand"] = df["Brand"].str.strip().replace("", "Unknown")
+df["Category"] = df["Category"].str.strip().str.title()
+
+#Fix invalid numeric values
+df["Cost_Price"] = df["Cost_Price"].abs()
+df["Stock_Quantity"] = df["Stock_Quantity"].fillna(0).astype(int)
+df["Rating"] = df["Rating"].replace(0, np.nan)
+
+# Fill missing prices using median markup ratio
+ratio = (df["Selling_Price"] / df["Cost_Price"]).median()
+df["Selling_Price"] = df["Selling_Price"].fillna(df["Cost_Price"] * ratio).round(2)
+df["Rating"] = df["Rating"].fillna(df["Rating"].median()).clip(1, 5).round(1)
+
+# Fix dates
+df["Last_Restocked"] = pd.to_datetime(df["Last_Restocked"]).fillna(pd.Timestamp("1900-01-01"))
+
+# Add derived columns
+df["Profit_Margin_Pct"] = ((df["Selling_Price"] - df["Cost_Price"]) / df["Selling_Price"] * 100).round(2)
+df["Stock_Status"] = pd.cut(df["Stock_Quantity"], bins=[-1,0,50,200,999],
+labels=["Out of Stock","Low","Medium", "High"])
+df = df.drop_duplicates(subset=["Product_ID"]).reset_index(drop=True)
+print("After:", df.shape)
+df.to_csv("products_cleaned.csv", index=False)
+
+print("Saved -> products_cleaned.csv")
